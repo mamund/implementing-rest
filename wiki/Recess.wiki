@@ -1,7 +1,4 @@
-#summary Details on the Recess Framework
-
-= Introduction =
-This is a stub for the Recess Framework.
+= Recess is a REST oriented, full-stack PHP framework. =
 
 _From an email posted by Kev Burns:_
 {{{
@@ -25,3 +22,4 @@ http://uforcerec.hackyhack.net/address.json+schema
 And it comes with a wicked admin interface
 http://uforcerec.hackyhack.net/recess/routes/
 }}}
+
