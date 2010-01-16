@@ -1,9 +1,6 @@
 #summary List of known frameworks that have REST aspects
 #labels Featured
 
-= Introduction =
-This is a list of frameworks/libraries that claim to support building REST-ful applications.
-
 _NOTE: If you are an author/advocate of a framework listed here, feel free to contribute to the wiki to improve the accuracy of the data. If you know of a REST-ful framework/library that is not listed here, contact one of the project members to add it to the list._ 
 
 = REST Frameworks =
