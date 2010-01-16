@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Stub for the OpenRasta Project
 
 = Introduction =
 This is a stub article for the [http://trac.caffeine-it.com/openrasta OpenRasta] project
