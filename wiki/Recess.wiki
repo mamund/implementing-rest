@@ -1,4 +1,4 @@
-#Details on the Recess Framework
+#summary Details on the Recess Framework
 
 = Introduction =
 This is a stub for the Recess Framework.
