@@ -11,5 +11,6 @@ If you are an author/advocate of a framework listed here, feel free to contribut
   * [Exyus] [http://www.exyus.org/ website]
   * [OpenRasta] [http://trac.caffeine-it.com/openrasta website]
   * RESTfulie
+  * JAX-RS/Jersey
 
   
