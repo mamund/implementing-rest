@@ -12,11 +12,12 @@ Finally, several examples of patterns and anti-patterns in programming are revie
 
 _NOTE: Consider both client and server issues when describing these essential programming elements._
 
-  * Request dispatcher
-  * URI parser
-  * mime parser
-  * resource handler
-  * representation handler
-  * HTTP client
-  * caching (esp. in support of conditional requests)
-  * authentication 
+|| *Feature* || *Description* ||
+|| Request Dispatcher || Routes HTTP requests to the proper execution code ||
+||  URI Handler || Parses the details of the URI (scheme, path, query info, etc.) and exposes them for use. ||
+|| Mime Parser || Handles the details of determining the media type including support for conneg ||
+|| Request Handler || Target of the Request Dispatcher; the interesting/computational stuff goes here ||
+|| Representation Handler || Converts stored data into the proper representation for responses and handles incoming representations from requests ||
+|| HTTP Client || A 'mini HTTP Client' that allows you to make requests to, and handle responses from, other HTTP servers ||
+|| Caching || Basic support for caching and conditional requests ||
+|| Authentication || Understands various auth models (Basic, Digest, OAuth, etc. ||
