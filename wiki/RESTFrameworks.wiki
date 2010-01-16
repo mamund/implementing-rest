@@ -1,5 +1,5 @@
+#summary List of known frameworks that have REST aspects
 #labels Featured
-#List of known frameworks that have REST aspects
 
 = Introduction =
 This is a list of frameworks/libraries that claim to support building REST-ful applications.
