@@ -1,5 +1,5 @@
+#summary List of principles or traits of REST-ful development environments
 #labels Featured
-#List of principles or traits of REST-ful development environments
 
 = Introduction =
 This is a set of statements about the nature of development environments that encourage REST-ful implementations. Right now it's a hodge-podge of notes and ideas. Feel free to suggest changes and modifications; challenge assumptions, etc.
