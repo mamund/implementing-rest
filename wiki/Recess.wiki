@@ -3,7 +3,7 @@
 = Introduction =
 This is a stub for the Recess Framework.
 
-Below is from an email posted by Kev Burns:
+_From an email posted by Kev Burns:_
 {{{
 Seen Recess?
 http://www.recessframework.org/
