@@ -7,7 +7,7 @@ This is a list of frameworks/libraries that claim to support building REST-ful a
 If you are an author/advocate of a framework listed here, feel free to contribute to the wiki to improve the accuracy of the data. If you know of a REST-ful framework/library that is not listed here, contact one of the project members to add it to the list. 
 
 = REST Frameworks =
-  * Recess [http://www.recessframework.org/ website]
+  * [Recess] [http://www.recessframework.org/ website]
   * Exyus [http://www.exyus.org/ website]
   * OpenRasta
   * RESTfulie
