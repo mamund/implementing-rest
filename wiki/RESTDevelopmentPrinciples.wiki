@@ -19,7 +19,7 @@ In addition, the development environment should:
     * Clear separation between control-data (HTTP Headers) and message bodies
     * Dependence (and ease of use) on media-types
     * Full and easy control of caching directives (including automatic marking of GET responses based on configuration information)
-  * Encourage implementing resources and REPRESENTATIONS (using media-types to express resource representations) through:
+  * Encourage implementing resources as REPRESENTATIONS (using media-types to express resource representations) through:
     * Ability to mark resources and methods as supportive of one or more media types
     * Easy access to serialization/transformation of resource data into media-type compliant representations
     * Ability to determine the beset match representation format (media type) for the client (e.g. support for server-driven and/or agent-driven content negotiation)
