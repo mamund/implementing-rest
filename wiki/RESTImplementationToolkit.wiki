@@ -1,0 +1,22 @@
+#labels Featured
+#Proposed list of features for a REST Programming Toolkit
+
+= Introduction =
+This article sets forth a list of features that should be present in any toolkit, library, and/or framework that supports REST.
+
+= REST Implementation Toolkit =
+
+The ease and fidelity of a REST-ful HTTP implementation depends, in part, on the quality of the programming tools at the developers disposal. This article identifies eight programming elements needed to support REST-ful HTTP implementations and why they are important. The author also provides examples of how these elements appear in common programming languages. 
+
+Finally, several examples of patterns and anti-patterns in programming are reviewed with an eye toward the impact developer toolkits have in making it easier or more difficult to successfully build a REST-ful HTTP implementation.
+
+_NOTE: Consider both client and server issues when describing these essential programming elements._
+
+  * Request dispatcher
+  * URI parser
+  * mime parser
+  * resource handler
+  * representation handler
+  * HTTP client
+  * caching (esp. in support of conditional requests)
+  * authentication 
