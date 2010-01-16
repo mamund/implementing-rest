@@ -1,5 +1,5 @@
+#summary Proposed list of features for a REST Programming Toolkit
 #labels Featured
-#Proposed list of features for a REST Programming Toolkit
 
 = Introduction =
 This article sets forth a list of features that should be present in any toolkit, library, and/or framework that supports REST.
