@@ -32,7 +32,7 @@ If a request is routed to a resauce controller which does not have an action imp
 
 The Resauce approach provides much more flexibility over how resources can be exposed than other alternatives - you have complete control of URI patterns and each resource's HTTP methods.
 
-REST is *not* collection/item CRUD; frameworks which fail to realise this (e.g. Zend Framework, Ruby on Rails) are introducing needless restriction - the only (debatable) 'benefit' of which is that your collection and item resources can be handled in one controller and with one route. 
+REST is *not* collection/item CRUD; frameworks/components which don't recognize this are introducing needless restriction - the only 'benefit' of which is that your collection and item resources can be handled in one controller and with one route. 
 
 ==Example Usage==
 
