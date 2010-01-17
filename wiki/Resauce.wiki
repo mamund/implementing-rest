@@ -1,4 +1,4 @@
-#summary resource-oriented MVC framework for building RESTful interfaces in PHP
+#summary Resource-oriented MVC framework for building RESTful interfaces in PHP
 
 ="Resauce Framework"=
 Resauce is a small extension to Zend Framework. It gives you a lightweight framework for building RESTful HTTP interfaces with PHP.
