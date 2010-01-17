@@ -1,3 +1,5 @@
+#summary Recess is a REST oriented, full-stack PHP framework.
+
 http://d.kevburnsjr.com/recess_286x71-333.jpg
 = Recess is a REST oriented, full-stack PHP framework. =
 [http://www.recessframework.org]
