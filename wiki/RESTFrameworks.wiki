@@ -10,5 +10,6 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home website]
   * RESTfulie
   * JAX-RS/Jersey
+  * Resauce [http://github.com/mikekelly/Resauce] website]
   
   
