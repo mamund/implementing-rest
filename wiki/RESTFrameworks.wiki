@@ -10,6 +10,6 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home website]
   * [RESTfulie] [http://restfulie.caelumobjects.com java/ruby/c# website]
   * JAX-RS/Jersey
-  * Resauce [http://github.com/mikekelly/Resauce website]
+  * [Resauce] [http://github.com/mikekelly/Resauce website]
   
   
