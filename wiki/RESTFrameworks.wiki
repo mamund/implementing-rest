@@ -11,5 +11,5 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [RESTfulie] [http://restfulie.caelumobjects.com java/ruby/c# website]
   * JAX-RS/Jersey
   * [Resauce] [http://github.com/mikekelly/Resauce website]
-  * [Active_Resource Active Resource] (Ruby on Rails) [http://api.rubyonrails.org/classes/ActiveResource/Base.html website]
+  * [ActiveResource] (Ruby on Rails) [http://api.rubyonrails.org/classes/ActiveResource/Base.html website]
   
