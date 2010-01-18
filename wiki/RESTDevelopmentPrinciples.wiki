@@ -25,10 +25,3 @@ In addition, the development environment should:
     * Ability to determine the beset match representation format (media type) for the client (e.g. support for server-driven and/or agent-driven content negotiation)
   * Encourage implementing RESOURCE IDENTIFIERS (using URI mapping to match request URIs to server-side code)
   * Encourage hypermedia to power application state (including mutually-agreed upon annotated links and link templates in the representations)
-
-Building REST-ful applications means:
-  * Describing application flow
-  * Defining resources to handle that flow
-  * Designing representations of the resources
-  * Decorating requests and responses with control metadata
-  * Defending interactions using authentication and authorization
