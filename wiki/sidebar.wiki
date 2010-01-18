@@ -1,3 +1,10 @@
   * [RESTDevelopmentPrinciples REST Development Prinicples]
   * [RESTFrameworks REST Frameworks]
+    * [Recess]
+    * [Exyus]
+    * [OpenRasta]
+    * [Webmachine]
+    * [RESTfulie]
+    * JAX-RS/Jersey
+    * [Resauce]
   * [RESTImplementationToolkit REST Implementation Toolkit]
