@@ -1,4 +1,5 @@
 #summary References to REST
+#labels Featured
 = Introduction =
 This article contains external references to REST-related materials
 
