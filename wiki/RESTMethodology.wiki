@@ -1,4 +1,5 @@
 #summary Suggested methodology when implementing REST
+#labels Featured
 
 = Introduction =
 This article identifies possible methodologies when implementing REST. 
