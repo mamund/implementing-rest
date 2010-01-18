@@ -2,7 +2,18 @@
 =Recess is a REST oriented, full-stack PHP framework.=
 [http://www.recessframework.org]
 
+Recess makes it easy to quickly create RESTful web services.  
 
+Recess supports [http://github.com/recess/recess/blob/master/recess/recess/http/Methods.class.php 8 HTTP Request Methods]
+
+Recess adds support for [http://github.com/recess/recess/blob/master/recess/recess/http/ResponseCodes.class.php 41 Response Codes]
+
+Recess has explicit [http://github.com/recess/recess/blob/master/recess/recess/http/Request.class.php Request] and [http://github.com/recess/recess/blob/master/recess/recess/http/Response.class.php Response] classes
+
+Recess extends PHP with [http://www.recessframework.org/book/html/ch06s06.html Annotations].
+Recess is headed toward 5.3 exclusivity.
+
+Recess does content negotiation based on URL extension and [http://github.com/recess/recess/blob/master/recess/recess/http/MimeTypes.class.php mime-type].
 
 _From an email posted by Kev Burns:_
 {{{
