@@ -7,4 +7,5 @@
     * [RESTfulie]
     * JAX-RS/Jersey
     * [Resauce]
+    * [ActiveResource]
   * [RESTImplementationToolkit REST Implementation Toolkit]
