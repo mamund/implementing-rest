@@ -12,4 +12,5 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * JAX-RS/Jersey
   * [Resauce] [http://github.com/mikekelly/Resauce website]
   * [ActiveResource] (Ruby on Rails) [http://api.rubyonrails.org/classes/ActiveResource/Base.html website]
+  * [Persevere] [http://www.persvr.org/ website]
   
