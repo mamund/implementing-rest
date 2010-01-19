@@ -8,6 +8,7 @@
     * JAX-RS/Jersey
     * [Resauce]
     * [ActiveResource]
+    * [Persevere]
   * [RESTMethodology REST Methodologies]
   * [RESTImplementationToolkit REST Implementation Toolkit]
   * [References References]
