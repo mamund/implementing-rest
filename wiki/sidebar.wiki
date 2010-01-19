@@ -10,6 +10,7 @@
     * [ActiveResource]
     * [Persevere]
     * [RIP REST in Python]
+    * [Restlet]
   * [RESTMethodology REST Methodologies]
   * [RESTImplementationToolkit REST Implementation Toolkit]
   * [References References]
