@@ -14,4 +14,5 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [ActiveResource] (Ruby on Rails) [http://api.rubyonrails.org/classes/ActiveResource/Base.html website]
   * [Persevere] [http://www.persvr.org/ website]
   * [RIP REST in Python] [http://lukearno.com/projects/rip/ website]
+  * [Restlet] [http://www.restlet.org/ website]
   
