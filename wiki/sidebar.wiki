@@ -5,9 +5,9 @@
     * [OpenRasta]
     * [Webmachine]
     * [Restfulie]
-      * [Restfulie Ruby]
-      * [Restfulie Java]
-      * [Restfulie C#]
+      * [Restfulie_Ruby]
+      * [Restfulie_Java]
+      * [Restfulie_C#]
     * JAX-RS/Jersey
     * [Resauce]
     * [ActiveResource]
