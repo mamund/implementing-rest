@@ -4,7 +4,10 @@
     * [Exyus]
     * [OpenRasta]
     * [Webmachine]
-    * [RESTfulie]
+    * [Restfulie]
+      * [Restfulie Ruby]
+      * [Restfulie Java]
+      * [Restfulie C#]
     * JAX-RS/Jersey
     * [Resauce]
     * [ActiveResource]
