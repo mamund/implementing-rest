@@ -33,8 +33,8 @@ Reference: http://jim.webber.name/downloads/presentations/2009-05-HATEOAS.pdf (P
    * Many URIs, many verbs 
    * CRUD services (e.g. Amazon S3)
  * Level 3
-   * Level 2 + Hypermedia 
-   * RESTful Services Hypermedia HTTP URI
+   * Level 2 + Hypermedia
+   * RESTful Services
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
