@@ -20,7 +20,21 @@ This page lists REST frameworks categorized by supported languages.
 ||Webmachine     ||   ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||
 ||Persevere      ||   ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||
 
-{{{*}}} RMM = Richardson Maturity Model (0 to 3)
+{{{*}}} RMM = Richardson Maturity Model (Level 0 to Level 3)
+
+The Richardson Maturity Model
+ * Level 0
+   * SOAP, XML RPC, POX 
+   * Single URI
+ * Level 1
+   * URI Tunnelling 
+   * Many URIs, Single verb
+ * Level 2
+   * Many URIs, many verbs 
+   * CRUD services (e.g. Amazon S3)
+ * Level 3
+   * Level 2 + Hypermedia 
+   * RESTful Services Hypermedia HTTP URI
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
