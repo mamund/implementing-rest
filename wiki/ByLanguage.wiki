@@ -18,6 +18,8 @@ This page collects REST frameworks categorized by supported languages.
 ||Resauce        ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
 ||Active Resource||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||
 ||Persevere      ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||
+||REST In Python ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||
+
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
