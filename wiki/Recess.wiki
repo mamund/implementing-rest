@@ -39,7 +39,8 @@ Content-Type: application/json; schema=/address.json+schema
 }}}
 
 {{{
-#GET /address/1.json
+#GET /address/1
+#Accept application/json
 
 HTTP/1.1 200 OK
 Content-Type: application/json; schema=/address.json+schema
