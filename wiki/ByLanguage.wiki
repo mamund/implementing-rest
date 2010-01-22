@@ -11,7 +11,7 @@ This page lists REST frameworks categorized by supported languages.
 ||Jersey         ||2  ||Yes   ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||
 ||Restfulie      ||3  ||?     ||Yes ||      ||Yes ||Yes ||      ||    ||   ||      ||          ||
 ||RESTlet        ||?  ||Yes   ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||
-||Exyus          ||?  ||?     ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
+||Exyus          ||2/3  ||Yes     ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
 ||OpenRasta      ||?  ||?     ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
 ||Active Resource||?  ||?     ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||
 ||REST In Python ||?  ||?     ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||
