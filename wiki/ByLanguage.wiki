@@ -15,7 +15,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[OpenRasta]      ||?  ||?     ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
 ||[ActiveResource]||?  ||?     ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||
 ||[RIP REST In Python] ||?  ||?     ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||
-||[Recess]         ||?  ||?     ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
+||[Recess]         ||?  ||Yes     ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
 ||[Resauce]        ||?  ||?     ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
 ||[Webmachine]     ||?  ||?     ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||
 ||[Persevere]      ||?  ||?     ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||
