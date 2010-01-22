@@ -9,10 +9,10 @@ This page lists REST frameworks categorized by supported languages.
 
 ||Framework      ||RMM{{{*}}}||conneg||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||JavaScript||
 ||Jersey         ||2  ||Yes   ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||
-||Restfulie      ||3  ||?     ||Yes ||      ||Yes ||Yes ||      ||    ||   ||      ||          ||
-||RESTlet        ||?  ||Yes   ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||
-||Exyus          ||3{{{[1]}}}  ||Yes     ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
-||OpenRasta      ||?  ||?     ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
+||[Restfulie]      ||3  ||?     ||Yes ||      ||Yes ||Yes ||      ||    ||   ||      ||          ||
+||[RESTlet]        ||?  ||Yes   ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||
+||[Exyus]          ||3{{{[1]}}}  ||Yes     ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
+||[OpenRasta]      ||?  ||?     ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
 ||Active Resource||?  ||?     ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||
 ||REST In Python ||?  ||?     ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||
 ||Recess         ||?  ||?     ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
