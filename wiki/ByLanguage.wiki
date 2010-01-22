@@ -9,16 +9,16 @@ This page lists REST frameworks categorized by supported languages.
 
 ||Framework      ||RMM{{{*}}}||conneg||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||JavaScript||
 ||Jersey         ||   ||Yes   ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||
-||Restfulie      || 3 ||      ||Yes ||      ||Yes ||Yes ||      ||    ||   ||      ||          ||
+||Restfulie      || 3 ||?     ||Yes ||      ||Yes ||Yes ||      ||    ||   ||      ||          ||
 ||RESTlet        ||   ||Yes   ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||
-||Exyus          ||   ||      ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
-||OpenRasta      ||   ||      ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
-||Active Resource||   ||      ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||
-||REST In Python ||   ||      ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||
-||Recess         ||   ||      ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
-||Resauce        ||   ||      ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
-||Webmachine     ||   ||      ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||
-||Persevere      ||   ||      ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||
+||Exyus          ||   ||?     ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
+||OpenRasta      ||   ||?     ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
+||Active Resource||   ||?     ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||
+||REST In Python ||   ||?     ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||
+||Recess         ||   ||?     ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
+||Resauce        ||   ||?     ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
+||Webmachine     ||   ||?     ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||
+||Persevere      ||   ||?     ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||
 
 {{{*}}} RMM = Richardson Maturity Model (Level 0 to Level 3)
  * Reference: http://jim.webber.name/downloads/presentations/2009-05-HATEOAS.pdf (Page 4)
