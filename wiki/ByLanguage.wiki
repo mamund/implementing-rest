@@ -1,0 +1,22 @@
+#REST Frameworks by language.
+
+= Introduction =
+
+This page collects REST frameworks categorized by supported languages.
+
+
+= Details =
+
+||Framework ||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||
+||Recess    ||    ||      ||    ||    ||      ||    ||Yes||      ||
+||Exyus     ||    ||      ||Yes ||    ||      ||    ||   ||      ||
+||OpenRasta ||    ||      ||Yes ||    ||      ||    ||   ||      ||
+||Webmachine||    ||      ||    ||    ||      ||    ||   ||Yes   ||
+||RESTfulie ||Yes ||      ||Yes ||Yes ||      ||    ||   ||      ||
+||Jersey    ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||
+||RESTlet   ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
