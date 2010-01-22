@@ -2,7 +2,7 @@
 
 = Introduction =
 
-This page collects REST frameworks categorized by supported languages.
+This page lists REST frameworks categorized by supported languages.
 
 
 = Details =
