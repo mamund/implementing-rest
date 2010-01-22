@@ -8,17 +8,17 @@ This page collects REST frameworks categorized by supported languages.
 = Details =
 
 ||Framework      ||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||JavaScript||
-||Recess         ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
+||Jersey         ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||
+||Restfulie      ||Yes ||      ||Yes ||Yes ||      ||    ||   ||      ||          ||
+||RESTlet        ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||
 ||Exyus          ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
 ||OpenRasta      ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||
-||Webmachine     ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||
-||Restfulie      ||Yes ||      ||Yes ||Yes ||      ||    ||   ||      ||          ||
-||Jersey         ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||
-||RESTlet        ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||
-||Resauce        ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
 ||Active Resource||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||
-||Persevere      ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||
 ||REST In Python ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||
+||Recess         ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
+||Resauce        ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||
+||Webmachine     ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||
+||Persevere      ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||
 
 
 Add your content here.  Format your content with:
