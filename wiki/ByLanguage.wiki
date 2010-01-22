@@ -21,8 +21,7 @@ This page lists REST frameworks categorized by supported languages.
 ||Persevere      ||   ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||
 
 {{{*}}} RMM = Richardson Maturity Model (Level 0 to Level 3)
-
-Reference: http://jim.webber.name/downloads/presentations/2009-05-HATEOAS.pdf (Page 4)
+ * Reference: http://jim.webber.name/downloads/presentations/2009-05-HATEOAS.pdf (Page 4)
  * Level 0
    * SOAP, XML RPC, POX 
    * Single URI
