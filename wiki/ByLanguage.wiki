@@ -20,6 +20,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[Webmachine]     ||?  ||?     ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||
 ||[Persevere]      ||?  ||?     ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||
 ||[MindTouchDream]      ||?  ||?     ||    ||      ||Yes    ||    ||      ||    ||   ||      ||       ||
+||[Snooze]      ||?  ||?     ||    ||      ||Yes    ||    ||      ||    ||   ||      ||       ||
 
 {{{*}}} RMM = Richardson Maturity Model (Level 0 to Level 3)
  * Reference: http://jim.webber.name/downloads/presentations/2009-05-HATEOAS.pdf (Page 4)
