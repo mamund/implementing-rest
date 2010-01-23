@@ -1,9 +1,9 @@
-#summary One-sentence summary of this page.
+#summary MindTouch Dream is a Web-Oriented Architecture Framework (WOAF) for developing lightweight, highly decoupled web-services.
 
 = Introduction =
-This article is a stub for the MindTouch Dream framework
+This article is a stub for the Mind Touch Dream framework
 
-= MindTouch Dream =
+= Mind Touch Dream =
 _From the project home page:_
 MindTouch Dream is a Web-Oriented Architecture Framework (WOAF) for developing lightweight, highly decoupled web-services.  The framework includes of a REST microserver and classes for web communication, XML processing, and writing highly asynchronous code.
 
