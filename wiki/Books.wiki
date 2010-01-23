@@ -1,0 +1,9 @@
+#summary Books on REST
+
+
+=Books =
+  * [http://oreilly.com/catalog/9780596529260/ RESTful Web Services]
+    * By Leonard Richardson, Sam Ruby
+    * Publisher:O'Reilly Media
+    * Released: May 2007 
+    * Pages: 448
