@@ -3,6 +3,5 @@
 = Introduction =
 This article contains external references to REST-related materials
 
-  * [http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm  Architectural Styles and
-the Design of Network-based Software Architectures] Dissertation by Roy Thomas Fielding, 2000
+  * [http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm REST Architectural Styles and the Design of Network-based Software Architectures] Dissertation by Roy Thomas Fielding, 2000
   * [http://en.wikipedia.org/wiki/Representational_State_Transfer Representational State Transfer] Wikipedia
