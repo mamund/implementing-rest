@@ -7,7 +7,7 @@
       * [Restfulie_Ruby]
       * [Restfulie_Java]
       * [Restfulie_C_Sharp]
-    * JAX-RS/Jersey
+    * [Jersey]
     * [Resauce]
     * [ActiveResource]
     * [Persevere]
