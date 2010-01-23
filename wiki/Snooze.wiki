@@ -3,7 +3,7 @@
 = Introduction =
 This article is a stub for the Snooze framework.
 
-= Soonze =
+= Snooze =
 _From the [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG project wiki]:_
 
 ASP.NET MVC is far too reliant on magic-strings. Snooze is a thin layer on top of the ASP.NET MVC framework that brings some sanity back!
