@@ -7,7 +7,8 @@ This is a stub article on the [http://wikis.sun.com/display/Jersey/Main Jersey] 
 = Jersey =
 
 === Sample ===
-_From Sun's [http://docs.sun.com/app/docs/doc/820-4867/ggnxo?l=en&a=view RESTful Web Services Developer's Guide]
+_From Sun's [http://docs.sun.com/app/docs/doc/820-4867/ggnxo?l=en&a=view RESTful Web Services Developer's Guide]_
+
 The following code sample is a very simple example of a root resource class using JAX-RS annotations. The sample shown here is from the samples that ship with Jersey, and which can be found in the following directory of that installation: 
 {{{
 jersey/samples/helloworld/src/main/java/com/sun/jersey/samples/helloworld/resources/HelloWorldResource.java.
