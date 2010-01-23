@@ -5,6 +5,7 @@ This article is a stub for the Mind Touch Dream framework
 
 = Mind Touch Dream =
 _From the project home page:_
+
 Mind Touch Dream is a Web-Oriented Architecture Framework (WOAF) for developing lightweight, highly decoupled web-services.  The framework includes of a REST microserver and classes for web communication, XML processing, and writing highly asynchronous code.
 
 _From a sample [http://developer.mindtouch.com/Dream/Tutorials/Creating_a_Magic_8-Ball_service tutorial page]:_
