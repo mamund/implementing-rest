@@ -14,3 +14,8 @@
     * Ebook Release: February 2010 (est.) 
     * Rough Cut Release: August 2009 
     * Pages: 320 (est.)
+  * [http://oreilly.com/catalog/9780596519216/ RESTful .NET]
+    * By Jon Flanders
+    * Publisher: O'Reilly Media
+    * Released: November 2008 
+    * Pages: 320
