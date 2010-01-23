@@ -1,0 +1,36 @@
+#summary Project Jersey is an open source community that is building the production quality reference implementation of JSR-311
+
+= Introduction =
+This is a stub article on the [http://wikis.sun.com/display/Jersey/Main Jersey] framework
+
+
+= Jersey =
+
+=== Sample ===
+_From Sun's [http://docs.sun.com/app/docs/doc/820-4867/ggnxo?l=en&a=view RESTful Web Services Developer's Guide]
+The following code sample is a very simple example of a root resource class using JAX-RS annotations. The sample shown here is from the samples that ship with Jersey, and which can be found in the following directory of that installation: 
+{{{
+jersey/samples/helloworld/src/main/java/com/sun/jersey/samples/helloworld/resources/HelloWorldResource.java.
+
+ package com.sun.jersey.samples.helloworld.resources;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Produces;
+import javax.ws.rs.Path;
+
+// The Java class will be hosted at the URI path "/helloworld"
+@Path("/helloworld")
+public class HelloWorldResource {
+    
+    // The Java method will process HTTP GET requests
+    @GET
+    // The Java method will produce content identified by the MIME Media
+    // type "text/plain"
+    @Produces("text/plain")
+    public String getClichedMessage() {
+        // Return some cliched textual content
+        return "Hello World";
+    }
+}
+
+}}}
