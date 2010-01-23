@@ -21,3 +21,5 @@
   * [RESTMethodology REST Methodologies]
   * [RESTImplementationToolkit REST Implementation Toolkit]
   * [References References]
+    * [Online]
+    * [Books]
