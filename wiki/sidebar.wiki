@@ -14,6 +14,7 @@
     * [Persevere]
     * [RIP REST in Python]
     * [Restlet]
+    * [MindTouchDream]
     * [ByLanguage Frameworks By Language]
   * [RESTMethodology REST Methodologies]
   * [RESTImplementationToolkit REST Implementation Toolkit]
