@@ -22,21 +22,4 @@ This page lists REST frameworks categorized by supported languages.
 ||[MindTouchDream]      ||?  ||?     ||    ||      ||Yes    ||    ||      ||    ||   ||      ||       ||
 ||[Snooze]      ||?  ||?     ||    ||      ||Yes    ||    ||      ||    ||   ||      ||       ||
 
-{{{*}}} RMM = Richardson Maturity Model (Level 0 to Level 3)
- * Reference: http://jim.webber.name/downloads/presentations/2009-05-HATEOAS.pdf (Page 4) and http://www.crummy.com/writing/speaking/2008-QCon/act3.html (QCon 2008 slides) 
- * Level 0
-   * SOAP, XML RPC, POX 
-   * Single URI
- * Level 1
-   * URI Tunnelling 
-   * Many URIs, Single verb
- * Level 2
-   * Many URIs, many verbs 
-   * CRUD services (e.g. Amazon S3)
- * Level 3
-   * Level 2 + Hypermedia
-   * RESTful Services
-
-conneg = Support for Content Negotiation
-
 {{{[1]}}} Exyus does not automatically generate hypermedia links, but developers have full control over representations via XSLT transformations
