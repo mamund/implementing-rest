@@ -24,4 +24,4 @@ This page lists REST frameworks categorized by supported languages.
 
 conneg = Content Negotiation for Media Types
 
-{{{[1]}}} Exyus does not automatically generate hypermedia links, but developers have full control over representations via XSLT transformations
+{{{[1]}}} Exyus does not automatically generate hypermedia links but developers have full control over representations via XSLT transformations
