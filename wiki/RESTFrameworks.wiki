@@ -15,5 +15,6 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Persevere] [http://www.persvr.org/ website]
   * [RIP REST in Python] [http://lukearno.com/projects/rip/ website]
   * [Restlet] [http://www.restlet.org/ website]
+  * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream website]
   
 ByLanguage
