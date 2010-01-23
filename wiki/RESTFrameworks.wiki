@@ -16,5 +16,6 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [RIP REST in Python] [http://lukearno.com/projects/rip/ website]
   * [Restlet] [http://www.restlet.org/ website]
   * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream website]
+  * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG website]
   
 ByLanguage
