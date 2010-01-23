@@ -13,7 +13,7 @@ The following code sample is a very simple example of a root resource class usin
 {{{
 jersey/samples/helloworld/src/main/java/com/sun/jersey/samples/helloworld/resources/HelloWorldResource.java.
 
- package com.sun.jersey.samples.helloworld.resources;
+package com.sun.jersey.samples.helloworld.resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Produces;
