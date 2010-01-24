@@ -4,7 +4,7 @@
 _NOTE: If you are an author/advocate of a framework listed here, feel free to contribute to the wiki to improve the accuracy of the data. If you know of a REST-ful framework/library that is not listed here, contact one of the project members to add it to the list._ 
 
 = REST Frameworks =
-  * [ActiveResource] (Ruby on Rails) 
+  * [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html website] (Ruby on Rails) 
   * [Exyus] [http://www.exyus.org/ website]
   * [Jersey] [http://wikis.sun.com/display/Jersey/Main website]
   * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream website]
@@ -17,6 +17,6 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Restlet] [http://www.restlet.org/ website]
   * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG website]
   * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home website]
-[http://api.rubyonrails.org/classes/ActiveResource/Base.html website]
+
   
 ByLanguage
