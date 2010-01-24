@@ -4,7 +4,7 @@
 _NOTE: If you are an author/advocate of a framework listed here, feel free to contribute to the wiki to improve the accuracy of the data. If you know of a REST-ful framework/library that is not listed here, contact one of the project members to add it to the list._ 
 
 = REST Frameworks =
-* [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html site] (Ruby on Rails) 
+  * [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html site] (Ruby on Rails) 
   * [Exyus] [http://www.exyus.org/ site]
   * [Jersey] [http://wikis.sun.com/display/Jersey/Main site]
   * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream site]
