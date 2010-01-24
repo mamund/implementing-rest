@@ -4,18 +4,19 @@
 _NOTE: If you are an author/advocate of a framework listed here, feel free to contribute to the wiki to improve the accuracy of the data. If you know of a REST-ful framework/library that is not listed here, contact one of the project members to add it to the list._ 
 
 = REST Frameworks =
-  * [Recess] [http://www.recessframework.org/ website]
+  * [ActiveResource] (Ruby on Rails) 
   * [Exyus] [http://www.exyus.org/ website]
-  * [OpenRasta] [http://trac.caffeine-it.com/openrasta website]
-  * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home website]
-  * [Restfulie] [http://restfulie.caelumobjects.com java/ruby/c# website]
   * [Jersey] [http://wikis.sun.com/display/Jersey/Main website]
-  * [Resauce] [http://github.com/mikekelly/Resauce website]
-  * [ActiveResource] (Ruby on Rails) [http://api.rubyonrails.org/classes/ActiveResource/Base.html website]
+  * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream website]
+  * [OpenRasta] [http://trac.caffeine-it.com/openrasta website]
   * [Persevere] [http://www.persvr.org/ website]
+  * [Recess] [http://www.recessframework.org/ website]
+  * [Resauce] [http://github.com/mikekelly/Resauce website]
+  * [Restfulie] [http://restfulie.caelumobjects.com java/ruby/c# website]
   * [RIP REST in Python] [http://lukearno.com/projects/rip/ website]
   * [Restlet] [http://www.restlet.org/ website]
-  * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream website]
   * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG website]
+  * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home website]
+[http://api.rubyonrails.org/classes/ActiveResource/Base.html website]
   
 ByLanguage
