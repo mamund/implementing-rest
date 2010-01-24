@@ -1,4 +1,3 @@
-  * [RESTRules REST Rules]
   * [RESTFrameworks REST Frameworks]
     * [ActiveResource]
     * [Exyus]
@@ -21,6 +20,7 @@
   * [RESTMethodology REST Methodologies]
   * [RESTImplementationToolkit REST Implementation Toolkit]
   * [RMM Richardson Maturity Model]
+  * [RESTRules Fielding's REST API Rules]
   * [References References]
     * [Online]
     * [Books]
