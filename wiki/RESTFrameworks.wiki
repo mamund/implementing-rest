@@ -4,18 +4,18 @@
 _NOTE: If you are an author/advocate of a framework listed here, feel free to contribute to the wiki to improve the accuracy of the data. If you know of a REST-ful framework/library that is not listed here, contact one of the project members to add it to the list._ 
 
 = REST Frameworks =
-  * [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html _site_] (Ruby on Rails) 
-  * [Exyus] [http://www.exyus.org/ _site_]
-  * [Jersey] [http://wikis.sun.com/display/Jersey/Main _site_]
-  * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream _site_]
-  * [OpenRasta] [http://trac.caffeine-it.com/openrasta _site_]
-  * [Persevere] [http://www.persvr.org/ _site_]
-  * [Recess] [http://www.recessframework.org/ _site_]
-  * [Resauce] [http://github.com/mikekelly/Resauce _site_]
-  * [Restfulie] [http://restfulie.caelumobjects.com _site_] (java/ruby/c#)
-  * [RIP REST in Python] [http://lukearno.com/projects/rip/ _site_]
-  * [Restlet] [http://www.restlet.org/ _site_]
-  * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG  _site_]
-  * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home _site_]
+  * [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html site] (Ruby on Rails) 
+  * [Exyus] [http://www.exyus.org/ site]
+  * [Jersey] [http://wikis.sun.com/display/Jersey/Main site]
+  * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream site]
+  * [OpenRasta] [http://trac.caffeine-it.com/openrasta site]
+  * [Persevere] [http://www.persvr.org/ site]
+  * [Recess] [http://www.recessframework.org/ site]
+  * [Resauce] [http://github.com/mikekelly/Resauce site]
+  * [Restfulie] [http://restfulie.caelumobjects.com site] (java/ruby/c#)
+  * [RIP REST in Python] [http://lukearno.com/projects/rip/ site]
+  * [Restlet] [http://www.restlet.org/ site]
+  * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG  site]
+  * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home site]
   
 ByLanguage
