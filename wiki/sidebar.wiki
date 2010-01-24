@@ -1,3 +1,4 @@
+  * [RESTRules REST Rules]
   * [RESTFrameworks REST Frameworks]
     * [ActiveResource]
     * [Exyus]
