@@ -5,6 +5,9 @@ This is a stub article on the [http://wikis.sun.com/display/Jersey/Main Jersey] 
 
 
 = Jersey =
+_From [http://wikis.sun.com/display/Jersey/Overview+of+JAX-RS+1.0+Features Overview of JAX-RS 1.0 Features]_
+
+Jersey is Sun's production quality reference implementation for JSR 311: JAX-RS: The Java API for RESTful Web Services. Jersey implements support for the annotations defined in JSR-311, making it easy for developers to build RESTful web services with Java and the Java JVM.
 
 === Sample ===
 _From Sun's [http://docs.sun.com/app/docs/doc/820-4867/ggnxo?l=en&a=view RESTful Web Services Developer's Guide]_
