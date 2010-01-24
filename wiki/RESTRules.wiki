@@ -1,4 +1,5 @@
 #summary API designers, please note the following rules before calling your creation a REST API
+#labels Featured
 
 = Introduction =
 The material for this page is taken from a [http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven blog post] by Roy T. Fielding in late 2008.
