@@ -4,19 +4,19 @@
 _NOTE: If you are an author/advocate of a framework listed here, feel free to contribute to the wiki to improve the accuracy of the data. If you know of a REST-ful framework/library that is not listed here, contact one of the project members to add it to the list._ 
 
 = REST Frameworks =
-  * [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif] (Ruby on Rails) 
-  * [Exyus] [http://www.exyus.org/ http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif]
-  * [Jersey] [http://wikis.sun.com/display/Jersey/Main http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif]
-  * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif]
-  * [OpenRasta] [http://trac.caffeine-it.com/openrasta http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif]
-  * [Persevere] [http://www.persvr.org/ http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif]
-  * [Recess] [http://www.recessframework.org/ http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif]
-  * [Resauce] [http://github.com/mikekelly/Resauce http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif]
-  * [Restfulie] [http://restfulie.caelumobjects.com http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif] (java/ruby/c#)
-  * [RIP REST in Python] [http://lukearno.com/projects/rip/ http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif]
-  * [Restlet] [http://www.restlet.org/ http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif]
-  * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG  http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif]
-  * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home http://dev40-pa.mymediabox.com/$content$/images/icons/plastic/web_16_hot.gif]
+* [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html site] (Ruby on Rails) 
+  * [Exyus] [http://www.exyus.org/ site]
+  * [Jersey] [http://wikis.sun.com/display/Jersey/Main site]
+  * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream site]
+  * [OpenRasta] [http://trac.caffeine-it.com/openrasta site]
+  * [Persevere] [http://www.persvr.org/ site]
+  * [Recess] [http://www.recessframework.org/ site]
+  * [Resauce] [http://github.com/mikekelly/Resauce site]
+  * [Restfulie] [http://restfulie.caelumobjects.com site] (java/ruby/c#)
+  * [RIP REST in Python] [http://lukearno.com/projects/rip/ site]
+  * [Restlet] [http://www.restlet.org/ site]
+  * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG  site]
+  * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home site]
 
   
 ByLanguage
