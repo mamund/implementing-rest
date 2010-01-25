@@ -29,35 +29,7 @@ Content-Type: text/html
 </form>
 }}}
 
-{{{
-#GET /address.json
-
-HTTP/1.1 200 OK
-Content-Type: application/json; schema=/address.json+schema
-
-[{"id":"1","addr1":"asdf","addr2":"asdf22","city":"asdf","state":"asdf33","zip":"asdf","tstamp":1254136638,"country":"adsfsd"},{"id":"2","addr1":"asdf","addr2":"asdf","city":"asdf","state":"asdf","zip":"asdf","tstamp":1254197809,"country":"asdf"}]
-}}}
-
-{{{
-#GET /address/1
-#Accept application/json
-
-HTTP/1.1 200 OK
-Content-Type: application/json; schema=/address.json+schema
-
-{"id":"1","addr1":"asdf","addr2":"asdf22","city":"asdf","state":"asdf33","zip":"asdf","tstamp":1254136638,"country":"adsfsd"}
-}}}
-
-{{{
-#GET /address.json+schema
-
-HTTP/1.1 200 OK
-Content-Type: application/json+schema; schema=http://json-schema.org/schema
-
-{"description":"Schema for Resource Address.","type":"Address","properties":{"id":{"type":"integer"},"addr1":{"type":"string"},"addr2":{"type":"string"},"city":{"type":"string"},"state":{"type":"string"},"zip":{"type":"string"},"tstamp":{"type":"integer","format":"date-time"},"country":{"type":"string"}}}
-}}}
-
-... which comes with content negotation
+... it comes with content negotation
  * http://uforcerec.hackyhack.net/address.html
  * http://uforcerec.hackyhack.net/address.json
  * http://uforcerec.hackyhack.net/address.json+schema
