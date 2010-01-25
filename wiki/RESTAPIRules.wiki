@@ -2,7 +2,7 @@
 #labels Featured
 
 = Introduction =
-The material for this page is taken from a [http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven blog post] by Roy T. Fielding in late 2008.
+The material for this page is taken from a blog post by Roy T. Fielding in late 2008 [http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif].
 
 = REST API Rules =
 
