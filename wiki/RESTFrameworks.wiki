@@ -4,19 +4,19 @@
 _NOTE: If you are an author/advocate of a framework listed here, feel free to contribute to the wiki to improve the accuracy of the data. If you know of a REST-ful framework/library that is not listed here, contact one of the project members to add it to the list._ 
 
 = REST Frameworks =
-  * [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html site] (Ruby on Rails) 
+  * [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Ruby on Rails) 
   * [Exyus] [http://www.exyus.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
-  * [Jersey] [http://wikis.sun.com/display/Jersey/Main site]
-  * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream site]
-  * [OpenRasta] [http://trac.caffeine-it.com/openrasta site]
-  * [Persevere] [http://www.persvr.org/ site]
-  * [Recess] [http://www.recessframework.org/ site]
-  * [Resauce] [http://github.com/mikekelly/Resauce site]
-  * [Restfulie] [http://restfulie.caelumobjects.com site] (java/ruby/c#)
-  * [RIP REST in Python] [http://lukearno.com/projects/rip/ site]
-  * [RESTInWCF REST In WCF] [http://msdn.microsoft.com/en-us/netframework/cc950529.aspx site]
-  * [Restlet] [http://www.restlet.org/ site]
-  * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG  site]
-  * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home site]
+  * [Jersey] [http://wikis.sun.com/display/Jersey/Main http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [OpenRasta] [http://trac.caffeine-it.com/openrasta http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Persevere] [http://www.persvr.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Recess] [http://www.recessframework.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Resauce] [http://github.com/mikekelly/Resauce http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Restfulie] [http://restfulie.caelumobjects.com http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (java/ruby/c#)
+  * [RIP REST in Python] [http://lukearno.com/projects/rip/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [RESTInWCF REST In WCF] [http://msdn.microsoft.com/en-us/netframework/cc950529.aspx http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Restlet] [http://www.restlet.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG  http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   
 ByLanguage
