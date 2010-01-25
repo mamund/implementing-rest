@@ -5,7 +5,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
 
 = REST Frameworks =
   * [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html site] (Ruby on Rails) 
-  * [Exyus] [http://www.exyus.org/ site]
+  * [Exyus] [http://www.exyus.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Jersey] [http://wikis.sun.com/display/Jersey/Main site]
   * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream site]
   * [OpenRasta] [http://trac.caffeine-it.com/openrasta site]
