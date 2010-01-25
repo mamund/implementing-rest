@@ -20,7 +20,7 @@
   * [RESTMethodology REST Methodologies]
   * [RESTImplementationToolkit REST Implementation Toolkit]
   * [RMM Richardson Maturity Model]
-  * [RESTRules Fielding's REST API Rules]
+  * [RESTAPIRules Fielding's REST API Rules]
   * [References References]
     * [Online]
     * [Books]
