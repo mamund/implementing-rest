@@ -14,6 +14,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Resauce] [http://github.com/mikekelly/Resauce site]
   * [Restfulie] [http://restfulie.caelumobjects.com site] (java/ruby/c#)
   * [RIP REST in Python] [http://lukearno.com/projects/rip/ site]
+  * [RESTInWCF REST In WCF] [http://msdn.microsoft.com/en-us/netframework/cc950529.aspx site]
   * [Restlet] [http://www.restlet.org/ site]
   * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG  site]
   * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home site]
