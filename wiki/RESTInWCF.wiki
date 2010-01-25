@@ -1,0 +1,15 @@
+#summary The WCF REST Starter Kit provides functionality to make it easier to develop service-oriented applications employing the REST architectural style
+
+= Introduction =
+
+This article is a stub for Microsoft's REST In WCF framework.
+
+
+= Details =
+_From the [http://msdn.microsoft.com/en-us/netframework/dd547388.aspx Overview of REST in WCF page]:_
+
+Windows Communication Foundation (WCF), part of the .NET Framework, provides the first unified programming model for rapidly building service-oriented applications. It enables the development of secure, reliable, transacted services that interoperate with current Microsoft investments and non-Microsoft platforms.
+
+With the .NET Framework 3.5 release, WCF added support for building REST style services. REST, an architectural style for building distributed hypermedia driven applications, involves building resource-oriented services by defining resources that implement uniform interfaces using standard HTTP verbs (GET, POST, PUT, and DELETE), and that can be located/identified by a URI.
+
+REST support within WCF was enhanced with the release of .NET Framework 3.5 SP1 to add make REST development easier and to support the ADO.NET Entity Framework entities in WCF contracts. Improvements were made around UriTemplate flexibility and the Visual Studio tooling to increase developer productivity.
