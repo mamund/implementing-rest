@@ -13,7 +13,7 @@ With the .NET Framework 3.5 release, WCF added support for building REST style s
 
 REST support within WCF was enhanced with the release of .NET Framework 3.5 SP1 to add make REST development easier and to support the ADO.NET Entity Framework entities in WCF contracts. Improvements were made around UriTemplate flexibility and the Visual Studio tooling to increase developer productivity.
 
-= REST WCF STarter Kit =
+= REST WCF Starter Kit =
 
 _From the [http://www.asp.net/downloads/starter-kits/wcf-rest/ WCF REST Starter Kit] home page._
 
