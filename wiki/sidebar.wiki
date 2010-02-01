@@ -1,5 +1,6 @@
   * [RESTFrameworks REST Frameworks]
     * [ActiveResource]
+    * [compojure-rest Compojure-REST]
     * [Exyus]
     * [Jersey]
     * [MindTouchDream]
