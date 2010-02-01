@@ -7,21 +7,22 @@ This page lists REST frameworks categorized by supported languages.
 
 = Details =
 
-||Framework            ||[RMM]      ||conneg{{{*}}}||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||JavaScript||
-||[ActiveResource]     ||?          ||?            ||    ||      ||     ||Yes ||     ||    ||   ||      ||          ||
-||[Exyus]              ||3{{{[1]}}} ||Yes          ||    ||      ||Yes  ||    ||     ||    ||   ||      ||          ||
-||[Jersey]             ||2          ||Yes          ||Yes ||Yes   ||     ||    ||     ||    ||   ||      ||          ||
-||[MindTouchDream]     ||?          ||?            ||    ||      ||Yes  ||    ||     ||    ||   ||      ||          ||
-||[OpenRasta]          ||?          ||?            ||    ||      ||Yes  ||    ||     ||    ||   ||      ||          ||
-||[Recess]             ||?          ||Yes          ||    ||      ||     ||    ||     ||    ||Yes||      ||          ||
-||[Resauce]            ||?          ||?            ||    ||      ||     ||    ||     ||    ||Yes||      ||          ||
-||[Restfulie]          ||3          ||?            ||Yes ||      ||Yes  ||Yes ||     ||    ||   ||      ||          ||
-||[RIP REST In Python] ||?          ||?            ||    ||      ||     ||    ||Yes  ||    ||   ||      ||          ||
-||[RESTInWCF REST In WCF]          ||?          ||?            ||    ||      ||Yes  ||    ||     ||    ||   ||      ||          ||
-||[Restlet]            ||?          ||Yes          ||Yes ||Yes   ||     ||    ||     ||    ||   ||      ||          ||
-||[Persevere]          ||?          ||?            ||    ||      ||     ||    ||     ||    ||   ||      ||Yes       ||
-||[Snooze]             ||?          ||?            ||    ||      ||Yes  ||    ||     ||    ||   ||      ||          ||
-||[Webmachine]         ||?          ||?            ||    ||      ||     ||    ||     ||    ||   ||Yes   ||          ||
+||Framework              ||[RMM]      ||conneg{{{*}}}||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||JavaScript||Clojure||
+||[ActiveResource]       ||?          ||?            ||    ||      ||     ||Yes||      ||    ||   ||      ||          ||       ||
+||[compojureREST]        ||?          ||?            ||    ||      ||     ||   ||      ||    ||   ||      ||          ||Yes    ||
+||[Exyus]                ||3{{{[1]}}} ||Yes          ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
+||[Jersey]               ||2          ||Yes          ||Yes ||Yes   ||     ||   ||      ||    ||   ||      ||          ||       ||
+||[MindTouchDream]       ||?          ||?            ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
+||[OpenRasta]            ||?          ||?            ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
+||[Recess]               ||?          ||Yes          ||    ||      ||     ||   ||      ||    ||Yes||      ||          ||       ||
+||[Resauce]              ||?          ||?            ||    ||      ||     ||   ||      ||    ||Yes||      ||          ||       ||
+||[Restfulie]            ||3          ||?            ||Yes ||      ||Yes  ||Yes||      ||    ||   ||      ||          ||       ||
+||[RIP REST In Python]   ||?          ||?            ||    ||      ||     ||   ||Yes   ||    ||   ||      ||          ||       ||
+||[RESTInWCF REST In WCF]||?          ||?            ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
+||[Restlet]              ||?          ||Yes          ||Yes ||Yes   ||     ||   ||      ||    ||   ||      ||          ||       ||
+||[Persevere]            ||?          ||?            ||    ||      ||     ||   ||      ||    ||   ||      ||Yes       ||       ||
+||[Snooze]               ||?          ||?            ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
+||[Webmachine]           ||?          ||?            ||    ||      ||     ||   ||      ||    ||   ||Yes   ||          ||       ||
 
 
 conneg = Content Negotiation for Media Types
