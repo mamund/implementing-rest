@@ -23,6 +23,7 @@
   * [RESTImplementationToolkit REST Implementation Toolkit]
   * [RMM Richardson Maturity Model]
   * [RESTAPIRules Fielding's REST API Rules]
+  * [RESTfulSystem A RESTful System]
   * [References References]
     * [Online]
     * [Books]
