@@ -9,7 +9,7 @@ This page lists REST frameworks categorized by supported languages.
 
 ||Framework              ||[RMM]      ||conneg{{{*}}}||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||JavaScript||Clojure||
 ||[ActiveResource]       ||?          ||?            ||    ||      ||     ||Yes||      ||    ||   ||      ||          ||       ||
-||[compojureREST]        ||?          ||?            ||    ||      ||     ||   ||      ||    ||   ||      ||          ||Yes    ||
+||[compojureREST]        ||?          ||Yes            ||    ||      ||     ||   ||      ||    ||   ||      ||          ||Yes    ||
 ||[Exyus]                ||3{{{[1]}}} ||Yes          ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
 ||[Jersey]               ||2          ||Yes          ||Yes ||Yes   ||     ||   ||      ||    ||   ||      ||          ||       ||
 ||[MindTouchDream]       ||?          ||?            ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
