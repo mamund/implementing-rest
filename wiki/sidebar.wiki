@@ -24,6 +24,7 @@
   * [RMM Richardson Maturity Model]
   * [RESTAPIRules Fielding's REST API Rules]
   * [RESTfulSystem A RESTful System]
+  * [TheKeyAbstraction The Key Abstraction]
   * [References References]
     * [Online]
     * [Books]
