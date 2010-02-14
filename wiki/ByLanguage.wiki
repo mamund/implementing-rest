@@ -7,24 +7,26 @@ This page lists REST frameworks categorized by supported languages.
 
 = Details =
 
-||Framework              ||[RMM]      ||conneg{{{*}}}||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||JavaScript||Clojure||
-||[ActiveResource]       ||?          ||?            ||    ||      ||     ||Yes||      ||    ||   ||      ||          ||       ||
-||[compojureREST]        ||?          ||Yes            ||    ||      ||     ||   ||      ||    ||   ||      ||          ||Yes    ||
-||[Exyus]                ||3{{{[1]}}} ||Yes          ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
-||[Jersey]               ||2          ||Yes          ||Yes ||Yes   ||     ||   ||      ||    ||   ||      ||          ||       ||
-||[MindTouchDream]       ||?          ||?            ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
-||[OpenRasta]            ||?          ||?            ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
-||[Recess]               ||?          ||Yes          ||    ||      ||     ||   ||      ||    ||Yes||      ||          ||       ||
-||[Resauce]              ||?          ||?            ||    ||      ||     ||   ||      ||    ||Yes||      ||          ||       ||
-||[Restfulie]            ||3          ||?            ||Yes ||      ||Yes  ||Yes||      ||    ||   ||      ||          ||       ||
-||[RIP REST In Python]   ||?          ||?            ||    ||      ||     ||   ||Yes   ||    ||   ||      ||          ||       ||
-||[RESTInWCF REST In WCF]||?          ||?            ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
-||[Restlet]              ||?          ||Yes          ||Yes ||Yes   ||     ||   ||      ||    ||   ||      ||          ||       ||
-||[Persevere]            ||?          ||?            ||    ||      ||     ||   ||      ||    ||   ||      ||Yes       ||       ||
-||[Snooze]               ||?          ||?            ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
-||[Webmachine]           ||?          ||?            ||    ||      ||     ||   ||      ||    ||   ||Yes   ||          ||       ||
+||Framework              ||[RMM]      ||conneg{{{*}}}||conditional{{{**}}}||cache{{{***}}}||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||JavaScript||Clojure||
+||[ActiveResource]       ||?          ||?            ||    ||    ||    ||      ||     ||Yes||      ||    ||   ||      ||          ||       ||
+||[compojureREST]        ||?          ||Yes            ||    ||    ||    ||      ||     ||   ||      ||    ||   ||      ||          ||Yes    ||
+||[Exyus]                ||3{{{[1]}}} ||Yes          ||    ||    ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
+||[Jersey]               ||2          ||Yes          ||    ||    ||Yes ||Yes   ||     ||   ||      ||    ||   ||      ||          ||       ||
+||[MindTouchDream]       ||?          ||    ||    ||?            ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
+||[OpenRasta]            ||?          ||?            ||    ||    ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
+||[Recess]               ||?          ||Yes          ||    ||    ||    ||      ||     ||   ||      ||    ||Yes||      ||          ||       ||
+||[Resauce]              ||?          ||?            ||    ||    ||    ||      ||     ||   ||      ||    ||Yes||      ||          ||       ||
+||[Restfulie]            ||3          ||Yes||Yes||Yes          ||Yes ||      ||Yes  ||Yes||      ||    ||   ||      ||          ||       ||
+||[RIP REST In Python]   ||?          ||?            ||    ||    ||    ||      ||     ||   ||Yes   ||    ||   ||      ||          ||       ||
+||[RESTInWCF REST In WCF]||?          ||?            ||    ||    ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
+||[Restlet]              ||?          ||Yes          ||    ||    ||Yes ||Yes   ||     ||   ||      ||    ||   ||      ||          ||       ||
+||[Persevere]            ||?          ||?            ||    ||    ||    ||      ||     ||   ||      ||    ||   ||      ||Yes       ||       ||
+||[Snooze]               ||?          ||?            ||    ||    ||    ||      ||Yes  ||   ||      ||    ||   ||      ||          ||       ||
+||[Webmachine]           ||?          ||?            ||    ||    ||    ||      ||     ||   ||      ||    ||   ||Yes   ||          ||       ||
 
 
-conneg = Content Negotiation for Media Types
+conneg = Content Negotiation for Media Types, understanding and using the Accept header
+conditional = Conditional requests on the client side, using Last-Modified and ETag headers, providing support to 304 response. Server side support to conditional requests: providing both headers and 304 when required.
+cache = Cache support on the client side (used for conditional requests and expiration policies through cache headers)
 
 {{{[1]}}} Exyus does not automatically generate hypermedia links but developers have full control over representations via XSLT transformations
