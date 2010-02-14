@@ -26,7 +26,9 @@ This page lists REST frameworks categorized by supported languages.
 
 
 conneg = Content Negotiation for Media Types, understanding and using the Accept header
+
 conditional = Conditional requests on the client side, using Last-Modified and ETag headers, providing support to 304 response. Server side support to conditional requests: providing both headers and 304 when required.
+
 cache = Cache support on the client side (used for conditional requests and expiration policies through cache headers)
 
 {{{[1]}}} Exyus does not automatically generate hypermedia links but developers have full control over representations via XSLT transformations
