@@ -25,10 +25,10 @@ This page lists REST frameworks categorized by supported languages.
 ||[Webmachine]           ||?          ||?            ||                   ||              ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||       ||
 
 
-{{{*}}} conneg = Content Negotiation for Media Types, understanding and using the Accept-{{{*}}} headers
+{{{*}}} conneg = [http://www.w3.org/Protocols/rfc2616/rfc2616-sec12.html#sec12 Content Negotiation] for Media Types, understanding and using the Accept-{{{*}}} headers
 
-{{{**}}} conditional = Conditional requests on the client side, using Last-Modified and ETag headers, providing support to 304 response. Server side support to conditional requests: providing both headers and 304 when required.
+{{{**}}} conditional = Conditional requests on the client side, using [http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.29 Last-Modified] and [http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.19 ETag] headers, providing support for [http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.3.5 304 Not Modified] response. Server side support to conditional requests: providing both headers and 304 when required.
 
-{{{***}}} cache = Cache support on the client side (used for conditional requests and expiration policies through cache headers)
+{{{***}}} cache = [http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html Caching support] on the client side (used for conditional requests and expiration policies through cache headers)
 
 {{{[1]}}} Exyus does not automatically generate hypermedia links but developers have full control over representations via XSLT transformations
