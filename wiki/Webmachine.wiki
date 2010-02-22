@@ -3,7 +3,7 @@
 = Introduction =
 This article is a stub.
 
-_From documentation at the [http://bitbucket.org/justin/webmachine/wiki/Home project hosting site]._
+_From documentation at the [http://webmachine.basho.com/ project home]._
 
 = Details =
 This ... documents the basic mechanics of Webmachine from the point of view of a single incoming HTTP Request, documenting the behavior of Webmachine through to the HTTP Response.
