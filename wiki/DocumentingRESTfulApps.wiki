@@ -1,0 +1,23 @@
+#summary Methods for documenting REST-ful Applications/APIs
+
+= Introduction =
+
+This article is a stub
+
+
+= Documenting REST-ful Applications =
+
+== Human Readable Documentation ==
+_From Chapter 14 of [http://www.restful-webservices-cookbook.org RESTful Web Services Cookbook] by [http://www.subbu.org/about Subbu Allamaraju] w/ contributions by [http://amundsen.com/  Mike Amundsen]_
+
+Fully describe the following in human readable documentation.
+
+  * All resources, and methods supported for each resource.
+  * Media types and representation formats for resources in requests and responses.
+  * Each link relation used, its business significance, HTTP method to be used, and resource that the link identifies.
+  * All fixed URIs that are not supplied via links.
+  * Query parameters used for all fixed URIs.
+  * URI templates, and token substitution rules.
+  * Authentication and security credentials for accessing resources.
+
+For XML representations, if your clients and servers are capable of supporting XML schemas, use a schema language as a “convention” to describe the structure of XML documents used for representations in requests and responses. For other formats, use conventions to describe representations in prose.
