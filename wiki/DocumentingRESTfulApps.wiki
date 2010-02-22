@@ -1,4 +1,5 @@
 #summary Methods for documenting REST-ful Applications/APIs
+#labels Featured
 
 = Introduction =
 
