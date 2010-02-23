@@ -13,6 +13,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Persevere] [http://www.persvr.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Recess] [http://www.recessframework.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Resauce] [http://github.com/mikekelly/Resauce http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Resourceful] [http://rdoc.info/projects/paul/resourceful http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Ruby)
   * [Restfulie] [http://restfulie.caelumobjects.com http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (java/ruby/c#)
   * [RIP REST in Python] [http://lukearno.com/projects/rip/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [RESTInWCF REST In WCF] [http://msdn.microsoft.com/en-us/netframework/cc950529.aspx http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
