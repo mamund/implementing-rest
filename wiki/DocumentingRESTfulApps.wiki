@@ -5,6 +5,11 @@
 
 This article is a stub
 
+Here are a few approaches that should be explored here:
+  * Focus on human-readable documentation
+  * Focus on media-type definition
+  * Focus on implementing support for OPTIONS
+  * Others?
 
 = Documenting REST-ful Applications =
 
