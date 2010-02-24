@@ -1,7 +1,5 @@
-#Sinatra
+#summary Sinatra
 
-= Introduction =
-
-Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort
+Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
 
 [http://www.sinatrarb.com/intro.html Sinatra Readme]
