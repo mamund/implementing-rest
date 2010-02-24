@@ -19,6 +19,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [RESTInWCF REST In WCF] [http://msdn.microsoft.com/en-us/netframework/cc950529.aspx http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Restlet] [http://www.restlet.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG  http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Sinatra] [http://www.sinatrarb.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   
 ByLanguage
