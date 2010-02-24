@@ -1,6 +1,4 @@
-#Resourceful
-
-= Introduction =
+#summary Resourceful Ruby HTTP client
 
 Resourceful is an advanced HTTP client for Ruby.
 
