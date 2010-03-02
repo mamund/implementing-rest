@@ -17,6 +17,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[Recess]               ||?          ||Yes          ||                   ||              ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||
 ||[Resauce]              ||?          ||?            ||                   ||              ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||
 ||[Resourceful]          ||?          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||
+||[RESTEasy]          ||?          ||Yes          ||Yes                ||Yes           ||Yes    ||Yes      ||    || ||      ||    ||   ||      ||          ||       ||
 ||[Restfulie]            ||3          ||Yes          ||Yes                ||Yes           ||Yes ||      ||Yes ||Yes ||      ||    ||   ||      ||          ||       ||
 ||[RIP REST In Python]   ||?          ||?            ||                   ||              ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||       ||
 ||[RESTInWCF REST In WCF]||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||
