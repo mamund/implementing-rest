@@ -1,9 +1,10 @@
 #summary Details on the RESTEasy framework
+#labels resteasy,java,jboss
 
 = Introduction =
 RESTEasy is a JBoss project that provides various frameworks to help you build RESTful Web Services and RESTful Java applications. It is a fully certified and portable implementation of the JAX-RS specification. 
 
-_From the [http://www.jboss.org/resteasy.html/ RESTEasy project home page]:
+_From the [http://www.jboss.org/resteasy.html RESTEasy project home page]:
 ==Features==
 The current version of *RESTEasy* has the following features:
   * Fully certified JAX-RS implementation
