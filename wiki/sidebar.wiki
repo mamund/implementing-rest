@@ -9,6 +9,7 @@
     * [Recess]
     * [Resauce]
     * [Resourceful]
+    * [RESTEasy]
     * [Restfulie]
       * [Restfulie_Ruby]
       * [Restfulie_Java]
