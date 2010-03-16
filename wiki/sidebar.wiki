@@ -14,7 +14,7 @@
       * [Restfulie_Ruby]
       * [Restfulie_Java]
       * [Restfulie_C_Sharp]
-    * [RESTish RESTish]
+    * [Restish Restish]
     * [RIP REST in Python]
     * [RESTInWCF REST In WCF] 
     * [Restlet]
