@@ -26,7 +26,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[Persevere]            ||?          ||?            ||                   ||              ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||       ||
 ||[Sinatra]              ||2          ||Yes          ||Yes                ||              ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||
 ||[Snooze]               ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||
-||[Taimen]               ||2          ||Yes          ||                   ||              ||    ||Yes      || ||    ||      ||    ||   ||      ||          ||Yes    ||
+||[Taimen]               ||2          ||Yes          ||                   ||              ||Yes    ||      || ||    ||      ||    ||   ||      ||          ||Yes    ||
 ||[Webmachine]           ||2          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||       ||
 
 
