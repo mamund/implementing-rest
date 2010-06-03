@@ -9,7 +9,7 @@ This is a page for recording authoritative quotes that answer commonly asked que
 Roy Fielding (http://tech.groups.yahoo.com/group/rest-discuss/message/10746)
 
 === Does /resource.xml and /resource.json refer to the same resource? ===
-
+{{{
 > But in hindsight, what's the difference between
 >
 > GET /resource.xml
@@ -25,7 +25,7 @@ Roy Fielding (http://tech.groups.yahoo.com/group/rest-discuss/message/10746)
 >
 > Semantically, the queries can be identical. Logically, one would
 > ASSUME they're identical.
-
+}}}
 The former are requests on two different resources. The latter
 are two varying requests on one resource. The only difference,
 in my opinion, is that the single varying resource makes for a
