@@ -13,11 +13,11 @@ License: Apache License 2.0
 
 Key Features
 
-- Automatic XML and JSON deserialization  
-- Fuzzy name matching ('product_id' in XML/JSON will match property named 'ProductId')  
-- Automatic detection of type of content returned  
-- GET, POST, PUT, HEAD, OPTIONS, DELETE supported  
-- Basic, NTLM and Parameter-based Authenticators included  
-- Supports custom authentication schemes  
-- Multi-part form/file uploads  
-- T4 Helper to generate C# classes from an XML document  
+  * Automatic XML and JSON deserialization  
+  * Fuzzy name matching ('product_id' in XML/JSON will match property named 'ProductId')  
+  * Automatic detection of type of content returned  
+  * GET, POST, PUT, HEAD, OPTIONS, DELETE supported  
+  * Basic, NTLM and Parameter-based Authenticators included  
+  * Supports custom authentication schemes  
+  * Multi-part form/file uploads  
+  * T4 Helper to generate C# classes from an XML document  
