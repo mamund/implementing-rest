@@ -7,7 +7,7 @@ RestSharp is a library that attempts to make accessing REST-like APIs as simple 
 
 = Details =
 
-http://restsharp.org - @RestSharp
+http://restsharp.org - [http://twitter.com/RestSharp @RestSharp]
 
 License: Apache License 2.0
 
