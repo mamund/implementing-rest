@@ -1,6 +1,6 @@
 #summary Frequently Asked Questions
 
-
+This is a page for recording authoritative quotes that answer commonly asked questions.  If you come across a quote from a well known REST advocate that addresses a frequent question, please add it here.
 
 === Does a service have to implement the PUT and DELETE methods to be considered RESTful? ===
 
