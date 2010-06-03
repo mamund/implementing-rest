@@ -1,0 +1,9 @@
+#summary Frequently Asked Questions
+
+
+
+=== Does a service have to implement the PUT and DELETE methods to be considered RESTful? ===
+
+"In any case, there are plenty of RESTful services that do nothing but GET and POST. The key is how those methods are used, not what methods are used. To give a specific example, what makes a wiki more or less RESTful is almost always determined by how it (ab)uses GET and sessions -- whether it uses PUT or POST for editing pages is sugar topping in comparison."
+
+Roy Fielding (http://tech.groups.yahoo.com/group/rest-discuss/message/10746)
