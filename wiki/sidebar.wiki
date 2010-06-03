@@ -18,6 +18,7 @@
     * [RIP REST in Python]
     * [RESTInWCF REST In WCF] 
     * [Restlet]
+    * [RestSharp]
     * [Sinatra]
     * [Snooze]
     * [Webmachine]
