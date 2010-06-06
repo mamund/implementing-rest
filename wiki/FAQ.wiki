@@ -34,3 +34,12 @@ Accept: application/json
  The former are requests on two different resources. The latter are two varying requests on one resource. The only difference, in my opinion, is that the single varying resource makes for a better bookmark because it is less susceptible to both differences in user agent capabilities (different accept lists) and changes in supported media types over time. It is not, however, a replacement for the media-specific resources and their corresponding URIs.
 
 Roy Fielding (http://tech.groups.yahoo.com/group/rest-discuss/message/13960)
+
+---
+=== Is it better to use the query string or the path for explicitly requesting a format in an URL? ===
+
+According to Roy:
+
+ I don't know of any sane system that uses the query portion to distinguish format-specific resources. Everybody uses name extensions for that purpose. 
+
+http://tech.groups.yahoo.com/group/rest-discuss/message/11153
