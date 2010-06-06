@@ -35,7 +35,7 @@ Accept: application/json
 
 Roy Fielding (http://tech.groups.yahoo.com/group/rest-discuss/message/13960)
 
----
+----
 === Is it better to use the query string or the path for explicitly requesting a format in an URL? ===
 
 According to Roy:
