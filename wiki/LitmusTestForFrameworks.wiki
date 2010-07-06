@@ -1,4 +1,4 @@
-#summary This list comes from a  [http://www.innoq.com/blog/st/2010/07/rest_litmus_test_for_web_frame.html blog post] by [http://tiwtter.com/stilkov Stefan Tilkov]. The discussion on the blog is worth checking out, too.
+#summary This list comes from a July, 2010 blog post by Stefan Tilkov. The discussion on the blog is worth checking out, too.
 
 == REST Litmus Test for Web Frameworks ==
 
