@@ -31,6 +31,7 @@
   * [RESTfulSystem A RESTful System]
   * [TheKeyAbstraction The Key Abstraction]
   * [DocumentingRESTfulApps Documenting REST-ful Applications]
+  * [LitmusTestForFrameworks REST Litmus Test for Web Frameworks]
   * [References References]
     * [Online]
     * [Books]
