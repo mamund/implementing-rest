@@ -3,3 +3,7 @@
 = Video =
 
 Video and Audio resources on REST topics
+
+  * [http://www.infoq.com/presentations/Hypermedia-Web-Integration The Role of Hypermedia and the Future of Web Integration]
+  * [http://www.infoq.com/interviews/robinson-webber-rest Ian Robinson and Jim Webber on Web-based Integration]
+  * [http://vimeo.com/channels/restfest RESTFest 2010 Talks]
