@@ -6,4 +6,4 @@ This article contains links to external references to REST-related materials
 
   * [Online]
   * [Books]
-  * [Video-Audio] 
+  * [Video] 
