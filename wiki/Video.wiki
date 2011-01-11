@@ -1,4 +1,5 @@
 #summary Video and Audio resources
+#labels Featured
 
 = Video =
 
