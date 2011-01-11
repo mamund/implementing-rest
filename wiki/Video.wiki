@@ -1,0 +1,5 @@
+#summary Video and Audio resources
+
+= Video =
+
+Video and Audio resources on REST topics
