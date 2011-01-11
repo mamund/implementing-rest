@@ -10,3 +10,4 @@ Video and Audio resources on REST topics
   * [http://vimeo.com/channels/restfest RESTFest 2010 Talks]
   * [http://www.infoq.com/presentations/vinoski-rest-serendipity REST, Reuse, and Serendipity - Steve Vinoski]
   * [http://www.infoq.com/presentations/qcon-tilkov-rest-intro REST: A Pragmatic Introduction to the Web's Architecture - Stefan Tilkov]
+  * [http://www.infoq.com/interviews/tilkov-rest-web-services Stefan Tilkov Talks REST, Web Services and More (interview)]
