@@ -11,4 +11,4 @@ Video and Audio resources on REST topics
 ||[http://www.infoq.com/presentations/vinoski-rest-serendipity REST, Reuse, and Serendipity] || Steve Vinoski ||
 ||[http://www.infoq.com/presentations/qcon-tilkov-rest-intro REST: A Pragmatic Introduction to the Web's Architecture] || Stefan Tilkov ||
 ||[http://www.infoq.com/interviews/tilkov-rest-web-services REST, Web Services and More (interview)] || Stefan Tilkov||
-||[http://bitworking.org/news/373/An-Introduction-to-REST An Introduction to REST] || Joe Gregorio|| A fifteen minute over view of REST ||
+||[http://bitworking.org/news/373/An-Introduction-to-REST An Introduction to REST] || Joe Gregorio|| A fifteen minute overview of REST ||
