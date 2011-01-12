@@ -4,10 +4,10 @@
 = Video =
 
 Video and Audio resources on REST topics
-
-  * [http://www.infoq.com/presentations/Hypermedia-Web-Integration The Role of Hypermedia and the Future of Web Integration]
-  * [http://www.infoq.com/interviews/robinson-webber-rest Ian Robinson and Jim Webber on Web-based Integration]
-  * [http://vimeo.com/channels/restfest RESTFest 2010 Talks]
-  * [http://www.infoq.com/presentations/vinoski-rest-serendipity REST, Reuse, and Serendipity - Steve Vinoski]
-  * [http://www.infoq.com/presentations/qcon-tilkov-rest-intro REST: A Pragmatic Introduction to the Web's Architecture - Stefan Tilkov]
-  * [http://www.infoq.com/interviews/tilkov-rest-web-services Stefan Tilkov Talks REST, Web Services and More (interview)]
+|| *Title* || *Presenter* ||
+||[http://www.infoq.com/presentations/Hypermedia-Web-Integration The Role of Hypermedia and the Future of Web Integration] || Guilherme Silveira ||
+||[http://www.infoq.com/interviews/robinson-webber-rest Web-based Integration] || Ian Robinson and Jim Webber ||
+||[http://vimeo.com/channels/restfest RESTFest 2010 Talks] || RESTFest Attendees ||
+||[http://www.infoq.com/presentations/vinoski-rest-serendipity REST, Reuse, and Serendipity] || Steve Vinoski ||
+||[http://www.infoq.com/presentations/qcon-tilkov-rest-intro REST: A Pragmatic Introduction to the Web's Architecture] || Stefan Tilkov ||
+||[http://www.infoq.com/interviews/tilkov-rest-web-services REST, Web Services and More (interview)] || Stefan Tilkov||
