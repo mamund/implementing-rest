@@ -22,7 +22,7 @@ Video and Audio resources on REST topics
 || [http://vimeo.com/11483381 Rest from Scratch part 2] || Guilherme Silveira ||
 || [http://vimeo.com/11294789 Rest from Scratch part 1] || Guilherme Silveira ||
 
-== RESTFest 2010 Videos==
+== RESTFest 2010 ==
 || *Title* || *Presenter* || *Comments/Synopsis* ||
 || [http://vimeo.com/channels/restfest#15564107 EventList Media Type] || Darrel Miller || Lighting talk on a tracking user events before committing to persistent storage ||
 || [http://vimeo.com/channels/restfest#15455197 Ditch Your Complex Client] || Erik Mogensen || Lighting talk ||
