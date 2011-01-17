@@ -7,6 +7,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Ruby on Rails) 
   * [compojureREST Compjure-REST] [http://github.com/ordnungswidrig/compojure-rest http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Exyus] [http://www.exyus.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [FRAPI] [http://getfrapi.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Jersey] [http://wikis.sun.com/display/Jersey/Main http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [OpenRasta] [http://trac.caffeine-it.com/openrasta http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
