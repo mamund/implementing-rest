@@ -24,7 +24,7 @@
     * [Snooze]
     * [Webmachine]
     * [ByLanguage *Frameworks By Language*]
-  * [RESTDevelopmentPrinciples REST Development Prinicples]
+  * [RESTDevelopmentPrinciples REST Development Principles]
   * [RESTMethodology REST Methodologies]
   * [RESTImplementationToolkit REST Implementation Toolkit]
   * [RMM Richardson Maturity Model]
