@@ -2,6 +2,7 @@
     * [ActiveResource]
     * [compojureREST Compojure-REST]
     * [Exyus]
+    * [FRAPI]
     * [Jersey]
     * [MindTouchDream]
     * [OpenRasta]
