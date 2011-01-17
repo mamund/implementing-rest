@@ -11,6 +11,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[ActiveResource]       ||?          ||?            ||                   ||              ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||
 ||[compojureREST]        ||?          ||Yes          ||                   ||              ||    ||      ||    ||    ||      ||    ||   ||      ||          ||Yes    ||
 ||[Exyus]                ||3{{{[1]}}} ||Yes          ||Yes                ||Yes           ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||
+||[FRAPI]                ||3{{{[2]}}} ||Yes          ||                   ||Yes           ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||
 ||[Jersey]               ||2          ||Yes          ||                   ||              ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||       ||
 ||[MindTouchDream]       ||?          ||             ||                   ||?             ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||
 ||[OpenRasta]            ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||
@@ -37,3 +38,5 @@ This page lists REST frameworks categorized by supported languages.
 {{{***}}} cache = [http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html Caching support] on the client side (used for conditional requests and expiration policies through cache headers)
 
 {{{[1]}}} Exyus does not automatically generate hypermedia links but developers have full control over representations via XSLT transformations
+
+{{{[2]}}} FRAPI does not automatically generate hypermedia but instructs users on how to have full control over their representation.
