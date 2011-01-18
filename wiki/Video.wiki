@@ -23,6 +23,7 @@ Video and Audio resources on REST topics
 || [http://vimeo.com/11483381 Rest from Scratch part 2] || Guilherme Silveira ||
 || [http://vimeo.com/11294789 Rest from Scratch part 1] || Guilherme Silveira ||
 ||[http://www.infoq.com/presentations/restful-financial-systems-integration  RESTful Approaches To Financial Systems Integration] || Kirk Wylie||Good case study on REST system including discussion on versioning media types ||
+||[http://blog.apigee.com/detail/restful_api_design/ Teach a Dog to REST] || Brian Mulloy || Talks about API design, mostly mapping URIs to resources (no hypermedia) ||
 
 == RESTFest 2010 ==
 || *Title* || *Presenter* || *Comments/Synopsis* ||
