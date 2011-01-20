@@ -26,6 +26,7 @@ Video and Audio resources on REST topics
 ||[http://blog.apigee.com/detail/restful_api_design/ Teach a Dog to REST] || Brian Mulloy || Talks about API design, mostly mapping URIs to resources (no hypermedia) ||
 ||[http://vimeo.com/15697358 Resource Oriented Architecture Using REST] || Alex Antonov|| ||
 ||[http://channel9.msdn.com/posts/TechTalk-RESTful-Application-Protocols-From-Design-to-Implementation RESTful Application Protocols, From Design to Implementation] || Ian Robinson || MSDN Channel9 TechTalk ||
+|| [http://www.infoq.com/presentations/robinson-restful-enterprise RESTful Enterprise Development with Atom and AtomPub] || Ian Robinson || ||
 ||[http://www.infoq.com/presentations/Does-REST-Need-Middleware Does REST Need Middleware?] || Bill Burke || ||
 ||[http://www.infoq.com/presentations/sanjiva-rest-myths WS-* vs. REST] || Sanjiva Weerawarana || Presents a case that REST is not so easy/simple/scalable as its proponents tout ||
 
