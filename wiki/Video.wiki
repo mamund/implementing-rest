@@ -8,28 +8,29 @@ Video and Audio resources on REST topics
 ==Miscellaneous==
 || *Title* || *Presenter* || *Comments/Synopsis* ||
 ||[http://www.infoq.com/presentations/RESTful-BPM RESTful BPM] || Cesare Pautasso ||
-||[http://www.infoq.com/presentations/The-Counterintuitive-Web The Counterintuitive Web] || Ian Robinson ||
-||[http://www.infoq.com/presentations/Using-REST-for-SOA Using REST for SOA] || Stefan Tilkov ||
+|| [http://www.infoq.com/presentations/Some-REST-Design-Patterns Some REST Design Patterns (and Anti-Patterns)] || Cesare Pautasso || ||
 ||[http://www.infoq.com/presentations/Hypermedia-Web-Integration The Role of Hypermedia and the Future of Web Integration] || Guilherme Silveira ||
-||[http://www.infoq.com/interviews/robinson-webber-rest Web-based Integration] || Ian Robinson, Jim Webber, and Stefan Tilkov || Interview at QCon London 2009 ||
-||[http://vimeo.com/channels/restfest RESTFest 2010 Talks] || RESTFest Attendees ||
-||[http://www.infoq.com/presentations/vinoski-rest-serendipity REST, Reuse, and Serendipity] || Steve Vinoski ||
-||[http://www.infoq.com/presentations/vinoski-rpc-convenient-but-flawed RPC and its Offspring: Convenient, Yet Fundamentally Flawed] || Steve Vinoski || Insightful review of what the industry has been trying to do for the last 15 years || 
-||[http://www.infoq.com/presentations/qcon-tilkov-rest-intro REST: A Pragmatic Introduction to the Web's Architecture] || Stefan Tilkov ||
-||[http://www.infoq.com/interviews/tilkov-rest-web-services REST, Web Services and More (interview)] || Stefan Tilkov||
-||[http://bitworking.org/news/373/An-Introduction-to-REST An Introduction to REST] || Joe Gregorio|| A fifteen minute overview of REST ||
 || [http://vimeo.com/12079275 Rest Business Process] || Guilherme Silveira || rule machines on the rest clients ||
 || [http://vimeo.com/11996778 Rest from Scratch part 3] || Guilherme Silveira ||
 || [http://vimeo.com/11483381 Rest from Scratch part 2] || Guilherme Silveira ||
+||[http://channel9.msdn.com/posts/TechTalk-RESTful-Application-Protocols-From-Design-to-Implementation RESTful Application Protocols, From Design to Implementation] || Ian Robinson || MSDN Channel9 TechTalk ||
+|| [http://www.infoq.com/presentations/robinson-restful-enterprise RESTful Enterprise Development with Atom and AtomPub] || Ian Robinson || ||
+||[http://www.infoq.com/presentations/The-Counterintuitive-Web The Counterintuitive Web] || Ian Robinson ||
+||[http://www.infoq.com/interviews/robinson-webber-rest Web-based Integration] || Ian Robinson, Jim Webber, and Stefan Tilkov || Interview at QCon London 2009 ||
+||[http://www.infoq.com/presentations/Using-REST-for-SOA Using REST for SOA] || Stefan Tilkov ||
+||[http://www.infoq.com/presentations/qcon-tilkov-rest-intro REST: A Pragmatic Introduction to the Web's Architecture] || Stefan Tilkov ||
+||[http://www.infoq.com/interviews/tilkov-rest-web-services REST, Web Services and More (interview)] || Stefan Tilkov||
+||[http://www.infoq.com/presentations/vinoski-rest-serendipity REST, Reuse, and Serendipity] || Steve Vinoski ||
+||[http://www.infoq.com/presentations/vinoski-rpc-convenient-but-flawed RPC and its Offspring: Convenient, Yet Fundamentally Flawed] || Steve Vinoski || Insightful review of what the industry has been trying to do for the last 15 years || 
+||[http://vimeo.com/channels/restfest RESTFest 2010 Talks] || RESTFest Attendees ||
+||[http://bitworking.org/news/373/An-Introduction-to-REST An Introduction to REST] || Joe Gregorio|| A fifteen minute overview of REST ||
 || [http://vimeo.com/11294789 Rest from Scratch part 1] || Guilherme Silveira ||
 ||[http://www.infoq.com/presentations/restful-financial-systems-integration  RESTful Approaches To Financial Systems Integration] || Kirk Wylie||Good case study on REST system including discussion on versioning media types ||
 ||[http://blog.apigee.com/detail/restful_api_design/ Teach a Dog to REST] || Brian Mulloy || Talks about API design, mostly mapping URIs to resources (no hypermedia) ||
 ||[http://vimeo.com/15697358 Resource Oriented Architecture Using REST] || Alex Antonov|| ||
-||[http://channel9.msdn.com/posts/TechTalk-RESTful-Application-Protocols-From-Design-to-Implementation RESTful Application Protocols, From Design to Implementation] || Ian Robinson || MSDN Channel9 TechTalk ||
-|| [http://www.infoq.com/presentations/robinson-restful-enterprise RESTful Enterprise Development with Atom and AtomPub] || Ian Robinson || ||
 ||[http://www.infoq.com/presentations/Does-REST-Need-Middleware Does REST Need Middleware?] || Bill Burke || ||
 ||[http://www.infoq.com/presentations/sanjiva-rest-myths WS-* vs. REST] || Sanjiva Weerawarana || Presents a case that REST is not so easy/simple/scalable as its proponents tout ||
-|| [http://www.infoq.com/presentations/Some-REST-Design-Patterns Some REST Design Patterns (and Anti-Patterns) || Cesare Pautasso || ||
+
 
 == RESTFest 2010 ==
 || *Title* || *Presenter* || *Comments/Synopsis* ||
