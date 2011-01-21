@@ -29,7 +29,7 @@ Video and Audio resources on REST topics
 || [http://www.infoq.com/presentations/robinson-restful-enterprise RESTful Enterprise Development with Atom and AtomPub] || Ian Robinson || ||
 ||[http://www.infoq.com/presentations/Does-REST-Need-Middleware Does REST Need Middleware?] || Bill Burke || ||
 ||[http://www.infoq.com/presentations/sanjiva-rest-myths WS-* vs. REST] || Sanjiva Weerawarana || Presents a case that REST is not so easy/simple/scalable as its proponents tout ||
-|| [[http://www.infoq.com/presentations/Some-REST-Design-Patterns Some REST Design Patterns (and Anti-Patterns) || Cesare Pautasso || ||
+|| [http://www.infoq.com/presentations/Some-REST-Design-Patterns Some REST Design Patterns (and Anti-Patterns) || Cesare Pautasso || ||
 
 == RESTFest 2010 ==
 || *Title* || *Presenter* || *Comments/Synopsis* ||
