@@ -11,8 +11,9 @@ Video and Audio resources on REST topics
 || [http://www.infoq.com/presentations/Some-REST-Design-Patterns Some REST Design Patterns (and Anti-Patterns)] || Cesare Pautasso || ||
 ||[http://www.infoq.com/presentations/Hypermedia-Web-Integration The Role of Hypermedia and the Future of Web Integration] || Guilherme Silveira ||
 || [http://vimeo.com/12079275 Rest Business Process] || Guilherme Silveira || rule machines on the rest clients ||
-|| [http://vimeo.com/11996778 Rest from Scratch part 3] || Guilherme Silveira ||
+|| [http://vimeo.com/11294789 Rest from Scratch part 1] || Guilherme Silveira ||
 || [http://vimeo.com/11483381 Rest from Scratch part 2] || Guilherme Silveira ||
+|| [http://vimeo.com/11996778 Rest from Scratch part 3] || Guilherme Silveira ||
 ||[http://channel9.msdn.com/posts/TechTalk-RESTful-Application-Protocols-From-Design-to-Implementation RESTful Application Protocols, From Design to Implementation] || Ian Robinson || MSDN Channel9 TechTalk ||
 || [http://www.infoq.com/presentations/robinson-restful-enterprise RESTful Enterprise Development with Atom and AtomPub] || Ian Robinson || ||
 ||[http://www.infoq.com/presentations/The-Counterintuitive-Web The Counterintuitive Web] || Ian Robinson ||
@@ -24,7 +25,6 @@ Video and Audio resources on REST topics
 ||[http://www.infoq.com/presentations/vinoski-rpc-convenient-but-flawed RPC and its Offspring: Convenient, Yet Fundamentally Flawed] || Steve Vinoski || Insightful review of what the industry has been trying to do for the last 15 years || 
 ||[http://vimeo.com/channels/restfest RESTFest 2010 Talks] || RESTFest Attendees ||
 ||[http://bitworking.org/news/373/An-Introduction-to-REST An Introduction to REST] || Joe Gregorio|| A fifteen minute overview of REST ||
-|| [http://vimeo.com/11294789 Rest from Scratch part 1] || Guilherme Silveira ||
 ||[http://www.infoq.com/presentations/restful-financial-systems-integration  RESTful Approaches To Financial Systems Integration] || Kirk Wylie||Good case study on REST system including discussion on versioning media types ||
 ||[http://blog.apigee.com/detail/restful_api_design/ Teach a Dog to REST] || Brian Mulloy || Talks about API design, mostly mapping URIs to resources (no hypermedia) ||
 ||[http://vimeo.com/15697358 Resource Oriented Architecture Using REST] || Alex Antonov|| ||
