@@ -24,5 +24,6 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Taimen Taimen] [http://code.google.com/p/bitumenframework/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Java, Clojure)
   * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
-  
+  * [Yesod] [http://docs.yesodweb.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Haskell)
+
 ByLanguage
