@@ -19,3 +19,8 @@
     * Publisher: O'Reilly Media
     * Released: November 2008 
     * Pages: 320
+  * [http://oreilly.com/catalog/9780596805838/ REST in Practice]
+    * By Jim Webber, Savas Parastatidis, Ian Robinson
+    * Publisher: O'Reilly Media
+    * Released: September 2010
+    * Pages: 448
