@@ -17,5 +17,5 @@ API designers, please note the following rules before calling your creation a RE
 
 There are probably other rules that I am forgetting, but the above are the rules related to the hypertext constraint that are most often violated within so-called REST APIs. Please try to adhere to them or choose some other buzzword for your API.
 
-Fielding defines hypertext as follows:<br>
+Fielding [http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven#comment-718 defines hypertext] as follows:<br>
 When I say hypertext, I mean the simultaneous presentation of information and controls such that the information becomes the affordance through which the user (or automaton) obtains choices and selects actions. Hypermedia is just an expansion on what text means to include temporal anchors within a media stream; most researchers have dropped the distinction. Hypertext does not need to be HTML on a browser. Machines can follow links when they understand the data format and relationship types.
