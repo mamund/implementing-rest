@@ -15,6 +15,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Recess] [http://www.recessframework.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Resauce] [http://github.com/mikekelly/Resauce http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Resourceful] [http://rdoc.info/projects/paul/resourceful http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Ruby)
+  * [RESTEasy] [http://www.jboss.org/resteasy http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Restfulie] [http://restfulie.caelumobjects.com http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (java/ruby/c#)
   * [Restish] [http://ish.io/projects/show/restish  http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [RIP REST in Python] [http://lukearno.com/projects/rip/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
