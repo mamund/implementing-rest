@@ -31,7 +31,7 @@ Video and Audio resources on REST topics
 ||[http://www.infoq.com/presentations/Does-REST-Need-Middleware Does REST Need Middleware?] || Bill Burke || ||
 ||[http://www.infoq.com/presentations/sanjiva-rest-myths WS-* vs. REST] || Sanjiva Weerawarana || Presents a case that REST is not so easy/simple/scalable as its proponents tout ||
 || [http://channel9.msdn.com/blogs/matthijs/why-rest-by-aaron-skonnard Why REST?] || Aaron Skonnard || REST Overview from Microsoft DevDays 2010. ||
-|| [http://www.infoq.com/interviews/rest-and-the-web-as-a-platform REST and the Web as a Platform || Subbu Allamaraju || "real life issues of RESTful architectures. He also describes a pragmatic approach of adopting the Web as an integration platform and shares his opinion on OAuth. " ||
+|| [http://www.infoq.com/interviews/rest-and-the-web-as-a-platform REST and the Web as a Platform] || Subbu Allamaraju || "real life issues of RESTful architectures. He also describes a pragmatic approach of adopting the Web as an integration platform and shares his opinion on OAuth. " ||
 
 
 == RESTFest 2010 ==
