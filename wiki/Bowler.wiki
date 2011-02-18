@@ -1,0 +1,13 @@
+#summary Stub for the Bowler RESTful Scala Web Framework
+
+= Introduction =
+
+This is a stub article for [http://bowlerframework.org/ Bowler] Active Resource], a RESTful Scala Web Framework.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
