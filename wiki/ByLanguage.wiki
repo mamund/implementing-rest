@@ -16,6 +16,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[Jersey]               ||2          ||Yes          ||                   ||              ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||       ||     ||
 ||[MindTouchDream]       ||?          ||             ||                   ||?             ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||
 ||[OpenRasta]            ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||
+||[Pinky]                ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||
 ||[Recess]               ||?          ||Yes          ||                   ||              ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||     ||
 ||[Resauce]              ||?          ||?            ||                   ||              ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||     ||
 ||[Resourceful]          ||?          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||
@@ -29,6 +30,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[Restlet]              ||?          ||Yes          ||                   ||              ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||       ||     ||
 ||[Persevere]            ||3          ||Yes          ||Yes                ||              ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||       ||     ||
 ||[Sinatra]              ||2          ||Yes          ||Yes                ||              ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||
+||[Scalatra]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||
 ||[Snooze]               ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||
 ||[Taimen]               ||2          ||Yes          ||                   ||              ||Yes    ||      || ||    ||      ||    ||   ||      ||          ||Yes    ||     ||
 ||[Unfiltered]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||
