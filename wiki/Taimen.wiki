@@ -1,4 +1,4 @@
-#summary Stub for the [https://bitbucket.org/kumarshantanu/taimen/ Taimen] Framework for Java and Clojure
+#summary Stub for the Taimen Framework for Java and Clojure
 
 = Introduction =
 
