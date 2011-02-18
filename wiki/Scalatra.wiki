@@ -1,0 +1,5 @@
+#summary Stub for the Scalatra Web Framework for Scala
+
+= Introduction =
+
+This is a stub article for [https://github.com/scalatra/scalatra Scalatra], a tiny [http://www.sinatrarb.com/ Sinatra]-like web framework for Scala.
