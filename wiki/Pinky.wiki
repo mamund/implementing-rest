@@ -5,7 +5,7 @@
 
 This is a stub article for the [https://github.com/pk11/pinky/wiki Pinky REST/MVC Glue Web Framework for Scala].
 
-_From the [https://github.com/pk11/pinky/wiki Pinky website]:_
+_From the [https://github.com/pk11/pinky/wiki Pinky wiki]:_
 
  Pinky is a Scala REST/MVC glue web framework built on top of Guice and Guice Servlet 2.0.
 
