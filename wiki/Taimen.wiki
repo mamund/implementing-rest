@@ -1,0 +1,9 @@
+#summary Stub for the [https://bitbucket.org/kumarshantanu/taimen/ Taimen] Framework for Java and Clojure
+
+= Introduction =
+
+This is a stub article for [https://bitbucket.org/kumarshantanu/taimen/ Taimen], a REST-compatible web framework for Java and Clojure
+
+_From the [https://bitbucket.org/kumarshantanu/taimen/ Taimen repository landing page]:_
+
+ An XML-free, REST-compatible, minimalistic, Servlet based MVC-2 framework for Java that can be easily used in dynamic JVM languages.
