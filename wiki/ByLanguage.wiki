@@ -35,7 +35,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[Snooze]               ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||
 ||[Taimen]               ||2          ||Yes          ||                   ||              ||Yes    ||      || ||    ||      ||    ||   ||      ||          ||Yes    ||     ||
 ||[Unfiltered]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||
-||[Webmachine]           ||2          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||       ||Yes   ||
+||[Webmachine]           ||2          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||       ||   ||
 
 
 {{{*}}} conneg = [http://www.w3.org/Protocols/rfc2616/rfc2616-sec12.html#sec12 Content Negotiation] for Media Types, understanding and using the Accept-{{{*}}} headers
