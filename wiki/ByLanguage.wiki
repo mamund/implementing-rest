@@ -1,5 +1,4 @@
 #summary REST Frameworks by language.
-#labels Featured
 
 = Introduction =
 
