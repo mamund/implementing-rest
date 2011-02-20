@@ -7,35 +7,37 @@ This page lists REST frameworks categorized by supported languages.
 
 = Details =
 
-||Framework              ||[RMM]      ||conneg{{{*}}}||conditional{{{**}}}||cache{{{***}}}||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||Java[]Script||Clojure||Scala||
-||[ActiveResource]       ||?          ||?            ||                   ||              ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||
-||[Bowler]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||
-||[compojureREST]        ||?          ||Yes          ||                   ||              ||    ||      ||    ||    ||      ||    ||   ||      ||          ||Yes    ||     ||
-||[Crochet]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||
-||[Exyus]                ||3{{{[1]}}} ||Yes          ||Yes                ||Yes           ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||
-||[FRAPI]                ||3{{{[2]}}} ||Yes          ||                   ||Yes           ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||     ||
-||[Jersey]               ||2          ||Yes          ||                   ||              ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||       ||     ||
-||[MindTouchDream]       ||?          ||             ||                   ||?             ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||
-||[OpenRasta]            ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||
-||[Pinky]                ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||
-||[Recess]               ||?          ||Yes          ||                   ||              ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||     ||
-||[Resauce]              ||?          ||?            ||                   ||              ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||     ||
-||[Resourceful]          ||?          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||
-||[RESTEasy]             ||?          ||Yes          ||Yes                ||Yes           ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||       ||     ||
-||[Restfulie]            ||3          ||Yes          ||Yes                ||Yes           ||Yes ||      ||Yes ||Yes ||      ||    ||   ||      ||          ||       ||     ||
-||[Restish]              ||?          ||Yes          ||Yes                ||?             ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||       ||     ||
-||[AkkaHTTP REST in Akka]||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||
-||[LiftREST REST In Lift]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||
-||[RIP REST In Python]   ||?          ||?            ||                   ||              ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||       ||     ||
-||[RESTInWCF REST In WCF]||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||
-||[Restlet]              ||?          ||Yes          ||                   ||              ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||       ||     ||
-||[Persevere]            ||3          ||Yes          ||Yes                ||              ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||       ||     ||
-||[Scalatra]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||
-||[Sinatra]              ||2          ||Yes          ||Yes                ||              ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||
-||[Snooze]               ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||
-||[Taimen]               ||2          ||Yes          ||                   ||              ||Yes    ||      || ||    ||      ||    ||   ||      ||          ||Yes    ||     ||
-||[Unfiltered]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||
-||[Webmachine]           ||2          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||       ||   ||
+||Framework              ||[RMM]      ||conneg{{{*}}}||conditional{{{**}}}||cache{{{***}}}||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||Java[]Script||Clojure||Scala||Haskell||
+||[ActiveResource]       ||?          ||?            ||                   ||              ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[Bowler]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
+||[compojureREST]        ||?          ||Yes          ||                   ||              ||    ||      ||    ||    ||      ||    ||   ||      ||          ||Yes    ||     ||     ||
+||[Crochet]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
+||[Exyus]                ||3{{{[1]}}} ||Yes          ||Yes                ||Yes           ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[FRAPI]                ||3{{{[2]}}} ||Yes          ||                   ||Yes           ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||     ||     ||
+||[Jersey]               ||2          ||Yes          ||                   ||              ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[MindTouchDream]       ||?          ||             ||                   ||?             ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[OpenRasta]            ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[Pinky]                ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
+||[Recess]               ||?          ||Yes          ||                   ||              ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||     ||     ||
+||[Resauce]              ||?          ||?            ||                   ||              ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||     ||     ||
+||[Resourceful]          ||?          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[RESTEasy]             ||?          ||Yes          ||Yes                ||Yes           ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[Restfulie]            ||3          ||Yes          ||Yes                ||Yes           ||Yes ||      ||Yes ||Yes ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[Restish]              ||?          ||Yes          ||Yes                ||?             ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||       ||     ||     ||
+||[AkkaHTTP REST in Akka]||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
+||[HAppSREST REST in HAppS]           ||?          ||?          ||?                ||?           ||    ||      ||    ||    ||      ||    ||   ||   ||          ||       ||   ||Yes     ||
+||[LiftREST REST In Lift]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
+||[RIP REST In Python]   ||?          ||?            ||                   ||              ||    ||      ||    ||    ||Yes   ||    ||   ||      ||          ||       ||     ||     ||
+||[RESTInWCF REST In WCF]||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[Restlet]              ||?          ||Yes          ||                   ||              ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[Persevere]            ||3          ||Yes          ||Yes                ||              ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||       ||     ||     ||
+||[Scalatra]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
+||[Sinatra]              ||2          ||Yes          ||Yes                ||              ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[Snooze]               ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[Taimen]               ||2          ||Yes          ||                   ||              ||Yes    ||      || ||    ||      ||    ||   ||      ||          ||Yes    ||     ||     ||
+||[Unfiltered]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
+||[Webmachine]           ||2          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||       ||   ||     ||
+||[Yesod]           ||?          ||?          ||?                ||?           ||    ||      ||    ||    ||      ||    ||   ||   ||          ||       ||   ||Yes     ||
 
 
 {{{*}}} conneg = [http://www.w3.org/Protocols/rfc2616/rfc2616-sec12.html#sec12 Content Negotiation] for Media Types, understanding and using the Accept-{{{*}}} headers
