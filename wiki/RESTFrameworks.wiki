@@ -5,26 +5,31 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
 
 = REST Frameworks =
   * [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Ruby on Rails) 
+  * [Bowler] [http://bowlerframework.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [compojureREST Compjure-REST] [http://github.com/ordnungswidrig/compojure-rest http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Crochet] [https://github.com/xllora/Crochet http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [Exyus] [http://www.exyus.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [FRAPI] [http://getfrapi.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Jersey] [http://wikis.sun.com/display/Jersey/Main http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [MindTouchDream MindTouch Dream] [http://developer.mindtouch.com/Dream http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [OpenRasta] [http://trac.caffeine-it.com/openrasta http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Persevere] [http://www.persvr.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Pinky] [https://github.com/pk11/pinky/wiki http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [Recess] [http://www.recessframework.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Resauce] [http://github.com/mikekelly/Resauce http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Resourceful] [http://rdoc.info/projects/paul/resourceful http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Ruby)
   * [RESTEasy] [http://www.jboss.org/resteasy http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
-  * [Restfulie] [http://restfulie.caelumobjects.com http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (java/ruby/c#)
+  * [Restfulie] [http://restfulie.caelumobjects.com http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Java/Ruby/C#)
   * [Restish] [http://ish.io/projects/show/restish  http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [RIP REST in Python] [http://lukearno.com/projects/rip/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [RESTInWCF REST In WCF] [http://msdn.microsoft.com/en-us/netframework/cc950529.aspx http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Restlet] [http://www.restlet.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Scalatra] [https://github.com/scalatra/scalatra http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [Sinatra] [http://www.sinatrarb.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Taimen Taimen] [http://code.google.com/p/bitumenframework/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Java, Clojure)
-  * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Unfiltered] [https://github.com/n8han/Unfiltered http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
+  * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Erlang)
   * [Yesod] [http://docs.yesodweb.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Haskell)
 
 ByLanguage
