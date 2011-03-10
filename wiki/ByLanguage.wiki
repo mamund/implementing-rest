@@ -36,6 +36,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[Snooze]               ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Taimen]               ||2          ||Yes          ||                   ||              ||Yes    ||      || ||    ||      ||    ||   ||      ||          ||Yes    ||     ||     ||
 ||[Unfiltered]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
+||[VRaptor]           ||3          ||Yes          ||Yes                ||Yes           ||Yes ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
 ||[Webmachine]           ||2          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||       ||   ||     ||
 ||[Yesod]           ||?          ||?          ||?                ||?           ||    ||      ||    ||    ||      ||    ||   ||   ||          ||       ||   ||Yes     ||
 
