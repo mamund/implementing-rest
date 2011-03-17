@@ -8,7 +8,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Bowler] [http://bowlerframework.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [compojureREST Compojure-REST] (Clojure) [http://github.com/ordnungswidrig/compojure-rest http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Crochet] [https://github.com/xllora/Crochet http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
-  * [DjangoRESTframework] [http://django-rest-framework.org http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [DjangoRESTframework Django REST framework] [http://django-rest-framework.org http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Exyus] [http://www.exyus.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [FRAPI] [http://getfrapi.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Jersey] [http://wikis.sun.com/display/Jersey/Main http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
