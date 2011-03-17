@@ -8,7 +8,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Bowler] [http://bowlerframework.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [compojureREST Compojure-REST] (Clojure) [http://github.com/ordnungswidrig/compojure-rest http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Crochet] [https://github.com/xllora/Crochet http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
-  * [DjangoRESTframework] [http://django-rest-framework.org]
+  * [DjangoRESTframework] [http://django-rest-framework.org http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Exyus] [http://www.exyus.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [FRAPI] [http://getfrapi.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Jersey] [http://wikis.sun.com/display/Jersey/Main http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
@@ -16,7 +16,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [OpenRasta] [http://trac.caffeine-it.com/openrasta http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Persevere] [http://www.persvr.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Pinky] [https://github.com/pk11/pinky/wiki http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
-  * [Piston] [https://bitbucket.org/jespern/django-piston/wiki/Home] (Django)
+  * [Piston] [https://bitbucket.org/jespern/django-piston/wiki/Home http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Django)
   * [Recess] [http://www.recessframework.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Resauce] [http://github.com/mikekelly/Resauce http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Resourceful] [http://rdoc.info/projects/paul/resourceful http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Ruby)
@@ -30,7 +30,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Sinatra] [http://www.sinatrarb.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Taimen Taimen] [http://code.google.com/p/bitumenframework/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Java, Clojure)
-  * [Tastypie] [https://github.com/toastdriven/django-tastypie] (Django)
+  * [Tastypie] [https://github.com/toastdriven/django-tastypie http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Django)
   * [Unfiltered] [https://github.com/n8han/Unfiltered http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Erlang)
   * [Yesod] [http://docs.yesodweb.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Haskell)
