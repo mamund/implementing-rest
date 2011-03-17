@@ -3,6 +3,7 @@
     * [Bowler]
     * [compojureREST Compojure-REST]
     * [Crochet]
+    * [Django REST framework]
     * [Exyus]
     * [FRAPI]
     * [Jersey]
