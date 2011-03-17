@@ -12,6 +12,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[Bowler]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
 ||[compojureREST]        ||?          ||Yes          ||                   ||              ||    ||      ||    ||    ||      ||    ||   ||      ||          ||Yes    ||     ||     ||
 ||[Crochet]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
+||[DjangoRESTframework Django REST framework]        ||?          ||Yes            ||Yes                  ||Yes             ||    ||      ||    ||    ||Yes      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Exyus]                ||3{{{[1]}}} ||Yes          ||Yes                ||Yes           ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
 ||[FRAPI]                ||3{{{[2]}}} ||Yes          ||                   ||Yes           ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||     ||     ||
 ||[Jersey]               ||2          ||Yes          ||                   ||              ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
@@ -31,10 +32,12 @@ This page lists REST frameworks categorized by supported languages.
 ||[RESTInWCF REST In WCF]||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Restlet]              ||?          ||Yes          ||                   ||              ||Yes ||Yes   ||    ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Persevere]            ||3          ||Yes          ||Yes                ||              ||    ||      ||    ||    ||      ||    ||   ||      ||Yes       ||       ||     ||     ||
+||[Piston]        ||?          ||Yes            ||Yes                  ||Yes             ||    ||      ||    ||    ||Yes      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Scalatra]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
 ||[Sinatra]              ||2          ||Yes          ||Yes                ||              ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Snooze]               ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Taimen]               ||2          ||Yes          ||                   ||              ||Yes    ||      || ||    ||      ||    ||   ||      ||          ||Yes    ||     ||     ||
+||[TastyPie]        ||?          ||Yes            ||Yes                  ||Yes             ||    ||      ||    ||    ||Yes      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Unfiltered]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
 ||[VRaptor]           ||?          ||?          ||?                ||?           ||Yes ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
 ||[Webmachine]           ||2          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||    ||      ||    ||   ||Yes   ||          ||       ||   ||     ||
