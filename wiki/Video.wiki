@@ -32,7 +32,7 @@ Video and Audio resources on REST topics
 ||[http://www.infoq.com/presentations/sanjiva-rest-myths WS-* vs. REST] || Sanjiva Weerawarana || Presents a case that REST is not so easy/simple/scalable as its proponents tout ||
 || [http://channel9.msdn.com/blogs/matthijs/why-rest-by-aaron-skonnard Why REST?] || Aaron Skonnard || REST Overview from Microsoft DevDays 2010. ||
 || [http://www.infoq.com/interviews/rest-and-the-web-as-a-platform REST and the Web as a Platform] || Subbu Allamaraju || An interview in which he discusses "real life issues of RESTful architectures. He also describes a pragmatic approach of adopting the Web as an integration platform and shares his opinion on OAuth. " ||
-||[http://oredev.org/2010/sessions/hypermedia-apis Hypermedia APIs]|| Jon Moore || Excellent talk on the practical benefits of hypermedia||
+||[http://oredev.org/2010/sessions/hypermedia-apis Hypermedia APIs]|| Jon Moore || Excellent talk on the practical benefits of hypermedia from Oredev 2010||
 
 
 == RESTFest 2010 ==
