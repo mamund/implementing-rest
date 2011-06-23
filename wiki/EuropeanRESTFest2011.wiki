@@ -13,9 +13,10 @@
  * Sponsors?
  * can we have a URI space on restfest.org, Mike?
 
-== Organisers ==
+== Organizers ==
 
  * Michael Hausenblas - [http://twitter.com/mhausenblas/ @mhausenblas]
+ * Thomas Steiner - [http://twitter.com/tomayac/ @tomayac]
  * ADD YOURSELF HERE pls if you're interested to help realising this event
 
 == Interested to attend ==
