@@ -1,6 +1,8 @@
-#summary Planning of an European [http://www.restfest.org/ REST Fest].
+#summary Planning of an European REST Fest.
 
 = Planning the European REST Fest =
+
+We will bring the [http://www.restfest.org/ REST Fest] to Europe!
 
 == Open Issues ==
 
