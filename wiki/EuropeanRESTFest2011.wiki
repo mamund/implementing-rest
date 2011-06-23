@@ -1,0 +1,18 @@
+#summary Planning of an European [http://www.restfest.org/ REST Fest].
+
+= Planning the European REST Fest =
+
+== Open Issues ==
+
+ * When? Suggested: late 2011
+ * Where? Suggested:
+   * London
+   * Norway (?)
+   * Galway, Ireland (DERI can host)
+ * Sponsors?
+ * can we have a URI space on restfest.org, Mike?
+
+== Organisers ==
+
+ * Michael Hausenblas - [http://twitter.com/mhausenblas/ @mhausenblas]
+ * ADD YOURSELF HERE pls if you're interested to help realising this event
