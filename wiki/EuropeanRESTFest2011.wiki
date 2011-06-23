@@ -17,7 +17,8 @@
 
  * Michael Hausenblas - [http://twitter.com/mhausenblas/ @mhausenblas]
  * Thomas Steiner - [http://twitter.com/tomayac/ @tomayac]
- * Ruben Verborgh - [http://twitter.com/RubenVerborgh/ @RubenVerborgh]
+ * Ruben Verborgh - [http://twitter.com/RubenVerborgh/] @RubenVerborgh
+* ADD YOURSELF HERE pls if you're interested to help realising this event
 
 == Interested to attend ==
 
