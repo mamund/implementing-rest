@@ -6,6 +6,7 @@
 
  * When? Suggested: late 2011
  * Where? Suggested:
+   * Southampton
    * London
    * Norway (?)
    * Galway, Ireland (DERI can host)
