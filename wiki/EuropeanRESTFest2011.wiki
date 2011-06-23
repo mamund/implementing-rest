@@ -8,12 +8,14 @@ We will bring the [http://www.restfest.org/ REST Fest] to Europe!
 
  * When? Suggested: late 2011
  * Where? Suggested:
-   * Southampton
-   * London
-   * Norway (?)
+   * Hamburg (Google offices)
+   * Southampton (where?)
+   * London (where?)
+   * Norway (where?)
    * Galway, Ireland (DERI can host)
  * Sponsors?
  * can we have a URI space on restfest.org, Mike?
+ * shall we do it on weekends? during the week?
 
 == Organizers ==
 
