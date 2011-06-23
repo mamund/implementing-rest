@@ -1,33 +1,3 @@
 #summary Planning of an European REST Fest.
 
-= Planning the European REST Fest =
-
-We will bring the [http://www.restfest.org/ REST Fest] to Europe!
-
-== Open Issues ==
-
- * When? Suggested: late 2011
- * Where? Suggested:
-   * Hamburg (Google offices)
-   * Southampton (where?)
-   * London (where?)
-   * Norway (where?)
-   * Galway, Ireland (DERI can host)
- * Sponsors?
- * can we have a URI space on restfest.org, Mike?
- * shall we do it on weekends? during the week?
-
-== Organizers ==
-
- * Michael Hausenblas - [http://twitter.com/mhausenblas/ @mhausenblas]
- * Thomas Steiner - [http://twitter.com/tomayac/ @tomayac]
- * Ruben Verborgh - [http://twitter.com/RubenVerborgh/ @RubenVerborgh]
- * ADD YOURSELF HERE pls if you're interested to help realising this event
-
-== Interested to attend ==
-
- * PUT YOURSELF HERE pls if you're interested to attend this event
-
-== Interested to sponsor ==
-
- * PUT YOURSELF HERE pls if you're interested to sponsor this event
+301'd to http://code.google.com/p/rest-fest-eu/wiki/EuropeanRESTFest2011
