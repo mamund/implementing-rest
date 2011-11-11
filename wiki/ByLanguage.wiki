@@ -9,6 +9,7 @@ This page lists REST frameworks categorized by supported languages.
 
 ||Framework              ||[RMM]      ||conneg{{{*}}}||conditional{{{**}}}||cache{{{***}}}||Java||JAX-RS||.NET||Ruby||Python||Perl||PHP||Erlang||Java[]Script||Clojure||Scala||Haskell||
 ||[ActiveResource]       ||?          ||?            ||                   ||              ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[BlueEyes]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
 ||[Bowler]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
 ||[compojureREST]        ||?          ||Yes          ||                   ||              ||    ||      ||    ||    ||      ||    ||   ||      ||          ||Yes    ||     ||     ||
 ||[Crochet]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
@@ -36,6 +37,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[Scalatra]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
 ||[Sinatra]              ||2          ||Yes          ||Yes                ||              ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Snooze]               ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[Spray]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
 ||[Taimen]               ||2          ||Yes          ||                   ||              ||Yes    ||      || ||    ||      ||    ||   ||      ||          ||Yes    ||     ||     ||
 ||[TastyPie]        ||?          ||Yes            ||Yes                  ||Yes             ||    ||      ||    ||    ||Yes      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Unfiltered]        ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
