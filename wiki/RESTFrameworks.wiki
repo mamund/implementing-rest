@@ -5,6 +5,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
 
 = REST Frameworks =
   * [ActiveResource] [http://api.rubyonrails.org/classes/ActiveResource/Base.html http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Ruby on Rails) 
+  * [BlueEyes] [https://github.com/jdegoes/blueeyes http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [Bowler] [http://bowlerframework.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [compojureREST Compojure-REST] (Clojure) [http://github.com/ordnungswidrig/compojure-rest http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Crochet] [https://github.com/xllora/Crochet http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
@@ -23,15 +24,20 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [RESTEasy] [http://www.jboss.org/resteasy http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Restfulie] [http://restfulie.caelumobjects.com http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Java/Ruby/C#)
   * [Restish] [http://ish.io/projects/show/restish  http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [AkkaHTTP REST in Akka] [http://akka.io/docs/akka/1.2/scala/http.html http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
+  * [HAppSREST REST in HAppS] [http://happs.org http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Haskell)
+  * [LiftREST REST in Lift] [http://www.assembla.com/wiki/show/liftweb/REST_Web_Services http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [RIP REST in Python] [http://lukearno.com/projects/rip/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [RESTInWCF REST In WCF] [http://msdn.microsoft.com/en-us/netframework/cc950529.aspx http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Restlet] [http://www.restlet.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Scalatra] [https://github.com/scalatra/scalatra http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [Sinatra] [http://www.sinatrarb.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+  * [Spray] [https://github.com/spray/spray http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [Taimen Taimen] [http://code.google.com/p/bitumenframework/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Java, Clojure)
   * [TastyPie] [https://github.com/toastdriven/django-tastypie http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Django)
   * [Unfiltered] [https://github.com/n8han/Unfiltered http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
+  * [VRaptor] [http://vraptor.caelum.com.br/en http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Java, Scala)
   * [Webmachine] [http://bitbucket.org/justin/webmachine/wiki/Home http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Erlang)
   * [Yesod] [http://docs.yesodweb.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Haskell)
 
