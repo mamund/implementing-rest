@@ -32,7 +32,7 @@
     * [Scalatra]
     * [Sinatra]
     * [Snooze]
-    * [Spray]
+    * [spray]
     * [Taimen]
     * [Unfiltered]
     * [VRaptor]
