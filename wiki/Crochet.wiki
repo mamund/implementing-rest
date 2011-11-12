@@ -5,7 +5,7 @@
 
 This is a stub article for [https://github.com/xllora/Crochet Crochet], a lightweight RESTful web framework for Scala
 
-_From the [https://github.com/xllora/Crochet/blob/master/readme.txt Crochet readme file]:_
+_From the [https://github.com/xllora/Crochet#readme Crochet readme file]:_
 
  Crochet is a light weight web framework oriented to rapid prototyping of REST API. If you are looking for a Rails like framework written in Scala, please take a look at Lift at http://liftweb.net/.
 
