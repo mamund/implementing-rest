@@ -19,4 +19,4 @@ The framework has been designed to meet the following requirements:
 
 BlueEyes does not have any features for server-side generation of HTML, CSS, or Java[]Script. BlueEyes does not (natively) serve static files, like Apache or Jetty. BlueEyes is intended only for creating RESTful web services that are consumed by clients (such as browsers or servers).
 
-Those looking for a traditional model/view web framework for the Scala programming language are directed to the [Lift] Web Framework.
+Those looking for a traditional model/view web framework for the Scala programming language are directed to the [http://liftweb.net Lift] Web Framework.
