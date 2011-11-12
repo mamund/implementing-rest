@@ -33,7 +33,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Scalatra] [https://github.com/scalatra/scalatra http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [Sinatra] [http://www.sinatrarb.com/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Snooze Snooze] [http://www.assembla.com/wiki/show/dKAZuYVVSr3lc5abIlDkbG http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
-  * [spray] [https://github.com/spray/spray http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
+  * [spray] [http://spray.cc http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [Taimen Taimen] [http://code.google.com/p/bitumenframework/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Java, Clojure)
   * [TastyPie] [https://github.com/toastdriven/django-tastypie http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Django)
   * [Unfiltered] [https://github.com/n8han/Unfiltered http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
