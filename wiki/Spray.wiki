@@ -1,4 +1,4 @@
-#summary Stub for the Spray Web 3.0 Framework for Scala
+#summary Stub for the spray RESTful web services framework for Scala
 
 = Introduction =
 
