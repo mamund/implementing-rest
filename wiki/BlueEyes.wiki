@@ -1,12 +1,12 @@
 #summary Stub for the BlueEyes Web 3.0 Framework for Scala
 
-BlueEyes has been used in production across large clusters of instances deployed in Amazon EC2, reliably handling tens of thousands of requests a second, in an environment with 24x7 uptime requirements (online display advertising).
-
 = Introduction =
 
 This is a stub article for [https://github.com/jdegoes/blueeyes BlueEyes], a lightweight Web 3.0 framework for Scala, featuring a purely asynchronous architecture, extremely high-performance, massive scalability, high usability, and a functional, composable design.
 
 _From the [https://github.com/jdegoes/blueeyes BlueEyes readme]:_
+
+BlueEyes has been used in production across large clusters of instances deployed in Amazon EC2, reliably handling tens of thousands of requests a second, in an environment with 24x7 uptime requirements (online display advertising).
 
 The framework has been designed to meet the following requirements:
 
