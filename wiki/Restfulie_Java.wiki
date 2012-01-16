@@ -5,7 +5,7 @@
 Restfulie second supported language was Java.
 While most frameworks up to Restfulie's release allowed users to create Restful systems, Restfulie forced users to adopt a Restful approach.
 
-You can see Restfulie's features at http://restfulie.caelumobjects.com/restfulie_features
+You can see Restfulie's features at http://restfulie.caelum.com.br
 
 = Client Example =
 
@@ -39,4 +39,3 @@ public class Order implements StateResource {
 }
 
 }}}
-
