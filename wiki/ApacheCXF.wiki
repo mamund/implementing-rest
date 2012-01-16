@@ -1,19 +1,19 @@
 #summary Apache CXF Services Framework
-#labels cxfjettisonjackson
+#labels cxf,jettison,jackson
 
 = Introduction =
 
-Apache CXF is well known as a services framework for supporting RPC style communication via SOAP.  CXF is also known for its ability to provide REST services through a [JAX-WS Provider/Dispatch| | http://cxf.apache.org/docs/rest-with-jax-ws-provider-and-dispatch.html] which provides an easy mechanism to allow SOAP web service to act more like a REST web service, though it is still essentially RPC/HTTP style approach.
+[http://cxf.apache.org/ Apache CXF] is well known as a services framework for supporting RPC style communication via SOAP.  CXF is also known for its ability to provide REST services through a [http://cxf.apache.org/docs/rest-with-jax-ws-provider-and-dispatch.html JAX-WS Provider/Dispatch|] which provides an easy mechanism to allow SOAP web service to act more like a REST web service, though it is still essentially RPC/HTTP style approach.
 
 However, CXF does have full blown REST support through JAX-RS and also provides many other features.
 
 http://cxf.apache.org/docs/jax-rs.html
 
-CXF REST has a good spring integration as well as good Maven support.  It is extremely easy to configure.  It does not, however, have any built-in support for [HATEOAS|http://en.wikipedia.org/wiki/HATEOAS].
+CXF REST has a good spring integration as well as good Maven support.  It is extremely easy to configure.  It does not, however, have any built-in support for [http://en.wikipedia.org/wiki/HATEOAS HATEOAS].
 
 
 = Details =
 
-The default JSON encoder in CXF is [Jettison|http://jettison.codehaus.org/], which uses produces JSON via XML using the [badgerfish convention|http://badgerfish.ning.com/].  This produces more verbose JSON that is reportedly difficult to parse from various Javascript libraries.
+The default JSON encoder in CXF is [http://jettison.codehaus.org/ Jettison], which uses produces JSON via XML using the [http://badgerfish.ning.com/ Badgerfish Convention].  This produces a kind of verbose JSON that is reportedly more difficult to parse using various popular Javascript libraries.
 
-However, CXF supports pluggable JSON encoders and one can easily substitute [Jackson|http://jackson.codehaus.org/] for increased interoperability (and reportedly better performance).
+However, CXF supports pluggable JSON encoders and one can easily substitute [http://jackson.codehaus.org/ Jackson] for increased interoperability (and reportedly better performance).
