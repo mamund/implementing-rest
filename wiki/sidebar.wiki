@@ -1,5 +1,6 @@
   * [RESTFrameworks REST Frameworks]
     * [ActiveResource]
+    * [ApacheCXF]
     * [BlueEyes]
     * [Bowler]
     * [compojureREST Compojure-REST]
