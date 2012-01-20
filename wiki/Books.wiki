@@ -24,3 +24,8 @@
     * Publisher: O'Reilly Media
     * Released: September 2010
     * Pages: 448
+  * [http://shop.oreilly.com/product/0636920020530.do Building Hypermedia APIs with HTML5 and Node]
+    * By Mike Amundsen
+    * Publisher: O'Reilly Media
+    * Released: November 2011
+    * Pages: 242
