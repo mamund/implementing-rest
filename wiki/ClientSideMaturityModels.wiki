@@ -14,5 +14,5 @@ This page tries to detail different ways of measuring how well a client matches 
 || Caching || No caching || ? || ? || "Browser" cache ||
 || Stateless || Stores state || ? || ? || Stateless ||
 || Code-on-demand || No code-on-demand || ? || ? || Does code-on-demand ||
-|| Uniform infterface || ? || ? || ? ||
+|| Uniform interface || ? || ? || ? ||
 || Other axis || ? || ? || ? ||? ||
