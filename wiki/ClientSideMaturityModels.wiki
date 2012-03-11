@@ -35,6 +35,18 @@ Client doesn't know or care about media types, always parses the response accord
 
 All responses are understood according to their media type, regardless of what state the client component might be in.  The client component handles all responses with the same grace.
 
+== Uniform Interface ==
+
+Is the client using custom headers or custom methods?
+
+=== Level 0 ===
+
+Uses proprietary headers to achieve certain goals.
+
+=== Level 3 ===
+
+Operates strictly within the set of documented and de facto standards.  Uses HTTP extension headers when these are standardized
+
 == Caching ==
 
 What does the client do when it comes to caching?
