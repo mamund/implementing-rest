@@ -11,7 +11,7 @@ This page tries to detail different ways of measuring how well a client matches 
 || Axis || Level 0  || Level 1 || Level 2 || Level 3 ||
 || [http://www.bizcoder.com/index.php/2012/03/07/hypermedia-client-maturity-model/ URLs] || HTTP RPC (mints URLs) || Fragile, Fragmented || Supple || Reactive (uses links) ||
 || Media Types || Unused || ? || ? || Drives the client ||
-|| Caching || No caching || ? || ? || "Browser" cache ||
+|| Caching || No caching || Respect caching directives || Conditional requests || "Browser" cache ||
 || Stateless || Stores state || ? || ? || Stateless ||
 || Code-on-demand || No code-on-demand || ? || ? || Does code-on-demand ||
 || Uniform interface || ? || ? || ? || Adheres strictly to to the uniform interface ||
