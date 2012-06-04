@@ -18,6 +18,7 @@ _NOTE: If you are an author/advocate of a framework listed here, feel free to co
   * [Persevere] [http://www.persvr.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Pinky] [https://github.com/pk11/pinky/wiki http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Scala)
   * [Piston] [https://bitbucket.org/jespern/django-piston/wiki/Home http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Django)
+  * [Ramone] [https://github.com/JornWildt/Ramone http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (C#)
   * [Recess] [http://www.recessframework.org/ http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Resauce] [http://github.com/mikekelly/Resauce http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
   * [Resourceful] [http://rdoc.info/projects/paul/resourceful http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif] (Ruby)
