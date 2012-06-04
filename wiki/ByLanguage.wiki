@@ -20,7 +20,7 @@ This page lists REST frameworks categorized by supported languages.
 ||[MindTouchDream]       ||?          ||             ||                   ||?             ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
 ||[OpenRasta]            ||?          ||?            ||                   ||              ||    ||      ||Yes ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Pinky]                ||?          ||?            ||?                  ||?             ||    ||      ||    ||    ||      ||    ||   ||      ||          ||       ||Yes  ||     ||
-||[Ramone]             ||?          ||Yes         ||No                ||No           ||No ||No   ||Yes    ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
+||[Ramone]             ||?          ||Yes         ||                ||           || ||   ||Yes    ||    ||      ||    ||   ||      ||          ||       ||     ||     ||
 ||[Recess]               ||?          ||Yes          ||                   ||              ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||     ||     ||
 ||[Resauce]              ||?          ||?            ||                   ||              ||    ||      ||    ||    ||      ||    ||Yes||      ||          ||       ||     ||     ||
 ||[Resourceful]          ||?          ||Yes          ||Yes                ||Yes           ||    ||      ||    ||Yes ||      ||    ||   ||      ||          ||       ||     ||     ||
