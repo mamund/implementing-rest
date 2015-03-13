@@ -1,0 +1,1 @@
+301'd to http://code.google.com/p/rest-fest-eu/wiki/EuropeanRESTFest2011
